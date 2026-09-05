@@ -5,13 +5,13 @@ const catalog = [
     id: "EXAMPLE_ID.xml", 
     title: "", 
     author: "", 
+    isbn: "",
     category: "", 
     access: "" 
   }
   */
 ];
 
-let currentCategory = "All";
 let activeRawXml = "";
 let xmlDocCache = null;
 const grid = document.getElementById('book-grid');
@@ -33,7 +33,7 @@ function renderCards(items) {
   document.getElementById('record-count').textContent = `${items.length} Records Loaded`;
 
   if (items.length === 0) {
-    grid.innerHTML = `<div class="no-results"><h3>No matching records found</h3><p>Try resetting your search query or selected category filter.</p></div>`;
+    grid.innerHTML = `<div class="no-results"><h3>No matching records found</h3><p>Try resetting your search query.</p></div>`;
     return;
   }
 
@@ -63,26 +63,13 @@ function setViewMode(mode) {
   grid.className = `catalog-layout ${mode}`;
 }
 
-function filterCategory(cat, element) {
-  currentCategory = cat;
-  document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
-  element.classList.add('active');
-  filterCatalog();
-}
-
 function filterCatalog() {
   const query = document.getElementById('search-input').value.trim().toLowerCase();
 
   const filtered = catalog.filter(item => {
-    const matchCategory = (currentCategory === "All") || 
-                          (currentCategory === "Open Access" && item.access === "Open Access") ||
-                          (currentCategory === "Restricted" && item.access === "Restricted") ||
-                          (item.category === currentCategory);
-
-    const textContent = `${item.title} ${item.author} ${item.id} ${item.category}`.toLowerCase();
-    const matchSearch = evaluateBooleanSearch(query, textContent);
-
-    return matchCategory && matchSearch;
+    // Includes ISBN in searchable text content
+    const textContent = `${item.title} ${item.author} ${item.isbn} ${item.id} ${item.category}`.toLowerCase();
+    return evaluateBooleanSearch(query, textContent);
   });
 
   renderCards(filtered);
@@ -144,7 +131,6 @@ function openDetailModal(filename) {
   modalTitle.textContent = getTag("title") || filename;
   metaGrid.innerHTML = '';
 
-  // Maps all requested Dublin Core metadata elements into the modal view
   const metaFields = [
     { label: "Title", value: getTag("title") },
     { label: "Creator", value: getTag("creator") },
@@ -155,7 +141,7 @@ function openDetailModal(filename) {
     { label: "Date", value: getTag("date") },
     { label: "Type", value: getTag("type") },
     { label: "Format", value: getTag("format") },
-    { label: "Identifier", value: getTag("identifier") },
+    { label: "Identifier (ISBN)", value: getTag("identifier") },
     { label: "Relation", value: getTag("relation") },
     { label: "Rights", value: getTag("rights") }
   ];
