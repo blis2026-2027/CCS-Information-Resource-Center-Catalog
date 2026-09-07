@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog name="Silliman University College of Computer Studies Information Resource Center Catalog">
-  
+
+  <record id="0130339695.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Database Management (Sixth Edition)</dc:title>
+    <dc:creator>Jeffrey A. Hoffer, Mary B. Prescott, Fred R. McFadden</dc:creator>
+    <dc:subject>Database Management</dc:subject>
+    <dc:description>A book designed for an introductory course in database management. It represents an extensive revision and updating of the fifth edition of Modern Database Management. These revisions are necessary to accommodate the technical, managerial, and methodological changes occurring at an ever-increasing pace in this field.</dc:description>
+    <dc:publisher>Prentice Hall</dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:identifier>ISBN 0-13-033969-5</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
+  </record>
+
   <!-- Template Record: Duplicate this block for each catalog item -->
   <record id="EXAMPLE_ID.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title></dc:title>
@@ -13,6 +28,7 @@
     <dc:type></dc:type>
     <dc:format></dc:format>
     <dc:identifier></dc:identifier>
+    <dc:language></dc:language>
     <dc:relation></dc:relation>
     <dc:rights></dc:rights>
   </record>
