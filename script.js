@@ -1,28 +1,46 @@
-// Add your catalog entries into this array following the template structure below
-const catalog = [
-  /*
-  { 
-    id: "EXAMPLE_ID.xml", 
-    title: "", 
-    author: "", 
-    isbn: "",
-    category: "", 
-    access: "" 
-  }
-  */
-];
+// Catalog array is dynamically populated from library.xml on initialization
+const catalog = [];
 
 let activeRawXml = "";
 let xmlDocCache = null;
 const grid = document.getElementById('book-grid');
 
-// Fetch external library.xml file on application initialization
+// Fetch and automatically parse external library.xml file into catalog array
 async function loadXmlDatabase() {
   try {
     const response = await fetch('library.xml');
     const xmlText = await response.text();
     const parser = new DOMParser();
     xmlDocCache = parser.parseFromString(xmlText, "text/xml");
+
+    // Clear existing catalog array
+    catalog.length = 0;
+    const records = xmlDocCache.getElementsByTagName("record");
+
+    // Helper function to extract text content safely regardless of namespace prefix
+    const getTag = (rec, name) => {
+      let el = rec.getElementsByTagNameNS("http://purl.org/dc/elements/1.1/", name)[0] 
+            || rec.getElementsByTagName("dc:" + name)[0] 
+            || rec.getElementsByTagName(name)[0];
+      return el ? el.textContent.trim() : '';
+    };
+
+    // Iterate through all XML records and map them to catalog items
+    for (let record of records) {
+      const recId = record.getAttribute("id");
+
+      // Skip empty or placeholder template records
+      if (!recId || recId.includes("EXAMPLE")) continue;
+
+      catalog.push({
+        id: recId,
+        title: getTag(record, "title"),
+        author: getTag(record, "creator"),
+        isbn: getTag(record, "identifier"),
+        category: getTag(record, "subject"),
+        access: getTag(record, "format")
+      });
+    }
   } catch (err) {
     console.error("Failed to load library.xml:", err);
   }
@@ -201,7 +219,7 @@ document.getElementById('detail-modal').addEventListener('click', (e) => {
   if (e.target.id === 'detail-modal') closeModal();
 });
 
-// Initialization
+// Initialization: Fetch XML, populate array, then render cards
 loadXmlDatabase().then(() => {
   renderCards(catalog);
 });
