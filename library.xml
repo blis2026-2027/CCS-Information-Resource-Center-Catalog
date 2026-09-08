@@ -12,7 +12,7 @@
     <dc:type>Textbook</dc:type>
     <dc:format>Physical</dc:format>
     <dc:identifier>ISBN 0-13-033969-5</dc:identifier>
-    <dc:language>English</dc:language>
+    <dc:relation>Language: English</dc:relation>
     <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
   </record>
 
@@ -28,7 +28,6 @@
     <dc:type></dc:type>
     <dc:format></dc:format>
     <dc:identifier></dc:identifier>
-    <dc:language></dc:language>
     <dc:relation></dc:relation>
     <dc:rights></dc:rights>
   </record>
