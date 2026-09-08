@@ -1,4 +1,4 @@
-// Catalog array is dynamically populated from library.xml on initialization
+// Catalog array dynamically populated from library.xml on initialization
 const catalog = [];
 
 let activeRawXml = "";
@@ -17,7 +17,7 @@ async function loadXmlDatabase() {
     catalog.length = 0;
     const records = xmlDocCache.getElementsByTagName("record");
 
-    // Helper function to extract text content safely regardless of namespace prefix
+    // Safe helper function to extract text content regardless of namespace prefix
     const getTag = (rec, name) => {
       let el = rec.getElementsByTagNameNS("http://purl.org/dc/elements/1.1/", name)[0] 
             || rec.getElementsByTagName("dc:" + name)[0] 
@@ -85,7 +85,6 @@ function filterCatalog() {
   const query = document.getElementById('search-input').value.trim().toLowerCase();
 
   const filtered = catalog.filter(item => {
-    // Includes ISBN in searchable text content
     const textContent = `${item.title} ${item.author} ${item.isbn} ${item.id} ${item.category}`.toLowerCase();
     return evaluateBooleanSearch(query, textContent);
   });
@@ -219,7 +218,8 @@ document.getElementById('detail-modal').addEventListener('click', (e) => {
   if (e.target.id === 'detail-modal') closeModal();
 });
 
-// Initialization: Fetch XML, populate array, then render cards
-loadXmlDatabase().then(() => {
+// Initialization: Await XML loading before rendering UI
+(async function init() {
+  await loadXmlDatabase();
   renderCards(catalog);
-});
+})();
