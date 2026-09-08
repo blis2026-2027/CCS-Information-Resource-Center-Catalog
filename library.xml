@@ -16,20 +16,4 @@
     <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
   </record>
 
-  <!-- Template Record: Duplicate this block for each catalog item -->
-  <record id="EXAMPLE_ID.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title></dc:title>
-    <dc:creator></dc:creator>
-    <dc:subject></dc:subject>
-    <dc:description></dc:description>
-    <dc:publisher></dc:publisher>
-    <dc:contributor></dc:contributor>
-    <dc:date></dc:date>
-    <dc:type></dc:type>
-    <dc:format></dc:format>
-    <dc:identifier></dc:identifier>
-    <dc:relation></dc:relation>
-    <dc:rights></dc:rights>
-  </record>
-
 </catalog>
