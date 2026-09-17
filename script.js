@@ -159,7 +159,10 @@ function openDetailModal(filename) {
     { label: "Type", value: getTag("type") },
     { label: "Format", value: getTag("format") },
     { label: "Identifier (ISBN)", value: getTag("identifier") },
+    { label: "Source", value: getTag("source") },
+    { label: "Language", value: getTag("language") },
     { label: "Relation", value: getTag("relation") },
+    { label: "Coverage", value: getTag("coverage") },
     { label: "Rights", value: getTag("rights") }
   ];
 
