@@ -37,5 +37,418 @@
     <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
   </record>
 
+	<record id="9901.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Designing Web Usability: The Practice of Simplicity</dc:title>
+    <dc:creator>Jakob Nielsen</dc:creator>
+    <dc:subject>User interfaces (Computer systems)</dc:subject>
+    <dc:description>Users experience the usability of a site before they have committed to using it and before they have spent any money on potential purchases. The web is the ultimate environment for empowerment, and he or she who clicks the mouse decides everything. Jakob Nielson, shares with you the full weight of his wisdom and experience. From content and page design to designing for ease of navigation and users with disabilities, Nielsen delivers complete direction on how to connect with any web user, in any situation.</dc:description>
+    <dc:publisher>New Riders Publishing</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2000</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, New Riders Publishing, 2000</dc:source>
+    <dc:identifier>ISBN 156205810X</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2000</dc:rights>
+  </record>
+  
+  <record id="9902.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Learning Web Design: A Beginner's Guide to HTML, Graphics, and Beyond (Second edition)</dc:title>
+    <dc:creator>Jennifer Niederst</dc:creator>
+    <dc:subject>Web personalization</dc:subject>
+    <dc:description>In Learning Web Design, author Jennifer Niederst shares the knowledge she's gained from years of web design experience, both as a designer and a teacher. This book starts from the beginning-- defining the Internet, the Web, browsers, and URLs. After reading this book, you'll have a solid foundation in HTML, graphics, and design principles that you can immediately put to use in creating effective web pages.</dc:description>
+    <dc:publisher>O'Reilly & Associates, Inc.</dc:publisher>
+    <dc:contributor>Paula Ferguson (editor)</dc:contributor>
+    <dc:date>2003</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>2nd edition, O'Reilly & Associates, Inc., 2003</dc:source>
+    <dc:identifier>ISBN 0596004842</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Learning Web Design</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2003</dc:rights>
+  </record>
+  
+  <record id="9903.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Macromedia Dreamweaver MX: Training from the Source</dc:title>
+    <dc:creator>Khristine Annwn Page</dc:creator>
+    <dc:subject>Web-based user interfaces</dc:subject>
+    <dc:description>Learning is doing--which means you're guaranteed to expand your skill set exponentially as you work your way through the 18 project-based tutorials that form the core of this volume on Macromedia's Dreamweaver MX 2004. With its powerful combination of visual layout tools, application development features, and code editing support, Dreamweaver MX 2004 really is a Web designer's dream, and Macromedia's official guide shows you how to transform your dream projects into real-life success stories.</dc:description>
+    <dc:publisher>Macromedia Press Inc.</dc:publisher>
+    <dc:contributor>Kari Brooks (editor)</dc:contributor>
+    <dc:date>2003</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Macromedia Press Inc., 2003</dc:source>
+    <dc:identifier>ISBN 0201799294</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2003</dc:rights>
+  </record>
+  
+  <record id="9904.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>HTML Utopia: Designing Without Tables Using CSS (Second edition)</dc:title>
+    <dc:creator>Dan Shafer, Rachel Andrew</dc:creator>
+    <dc:subject>HTML (Document markup language); Cascading style sheets</dc:subject>
+    <dc:description>HTML Utopia: Designing Without Tables Using CSS, 2nd Edition is for web developers looking to create websites using Cascading Style Sheets for layout, which allow for faster page downloads, easier maintenance, faster website redesigns, and better search engine optimization.</dc:description>
+    <dc:publisher>SitePoint Pty. Ltd.</dc:publisher>
+    <dc:contributor>Georgina Laidlaw (editor)</dc:contributor>
+    <dc:date>April 1, 2006</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>2nd edition, SitePoint Pty. Ltd., April 2006</dc:source>
+    <dc:identifier>ISBN 0975240277</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2006</dc:rights>
+  </record>
+  
+  <record id="9905.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>XML in Action: Web Technology</dc:title>
+    <dc:creator>William J. Pardi</dc:creator>
+    <dc:subject>XML (Document markup language)</dc:subject>
+    <dc:description>Written by a Microsoft interactive content developer, "XML in Action" focuses on new design benefits to the user and how to get the best results. Pardi shows how to build next-generation applications with the universal data format.</dc:description>
+    <dc:publisher>Microsoft Press</dc:publisher>
+    <dc:contributor>Juliana Aldous, Thom Votteler, Linda Harmony</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Microsoft Press, 1999</dc:source>
+    <dc:identifier>ISBN 0735605629</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©1999</dc:rights>
+  </record>
+  
+  <record id="9906.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Mastering Microsoft FrontPage 2000</dc:title>
+    <dc:creator>Daniel A. Tauber, Brenda Kienan, Molly E. Holzschlag</dc:creator>
+    <dc:subject>Web personalization</dc:subject>
+    <dc:description>Microsoft FrontPage 2000 provides a way to create and manage professional Web sites and intranet pages. This book aims to enable users to dive straight into creating sophisticated pages and developing whole sites. It also covers publicizing your site and using animation, video, sound and Java.</dc:description>
+    <dc:publisher>SYBEX Inc.</dc:publisher>
+    <dc:contributor>Linda Orlando (editor)</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, SYBEX Inc., 1999</dc:source>
+    <dc:identifier>ISBN 0782124550</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©1999</dc:rights>
+  </record>
+  
+  <record id="9907.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>How to Create Web Pages Using HTML: Brief Edition</dc:title>
+    <dc:creator>Kenneth C. Laudon, Kenneth Rosenblatt, David Langley</dc:creator>
+    <dc:subject>HTML (Document markup language)</dc:subject>
+    <dc:description>SERIES TAGLINE: The Interactive Computing Series is the Visual, Interactive way to develop and apply software skills. This Skills based approach coupled with its highlyillustrated, 2 page-spread design is ideal for the intro CIS course, the self-paced course or students in non-traditional education.</dc:description>
+    <dc:publisher>McGraw-Hill/Irwin</dc:publisher>
+    <dc:contributor>Steve Schuetz (editor)</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, McGraw-Hill Irwin, 2002</dc:source>
+    <dc:identifier>ISBN 0072471824</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Interactive Computing Series</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2002</dc:rights>
+  </record>
+  
+    <record id="9908.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Design of Sites: Patterns, Principles, and Processes for Crafting a Customer-Centered Web Experience</dc:title>
+    <dc:creator>Douglas K. van Duyne, James A. Landay, Jason I. Hong</dc:creator>
+    <dc:subject>Web sites—Design</dc:subject>
+    <dc:description>Based upon extensive, ground-breaking research, The Design of Sites introduces a comprehensive, pattern-based approach to making web sites truly customer-centered. Using the 101 patterns presented here, Web and business professionals can learn from the industry's experience and best practices, and dramatically improve customer satisfaction and retention.</dc:description>
+    <dc:publisher>Addison-Wesley</dc:publisher>
+    <dc:contributor>Steve Schuetz (editor)</dc:contributor>
+    <dc:date>2003</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Addison-Wesley, 2003</dc:source>
+    <dc:identifier>ISBN 020172149X</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2003</dc:rights>
+  </record>
+  
+  <record id="9909.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Dreamweaver MX: The Complete Reference</dc:title>
+    <dc:creator>Ray West, Tom Muck</dc:creator>
+    <dc:subject>Web personalization</dc:subject>
+    <dc:description>This book covers all of the new features of Dreamweaver MX in detail, including a discussion of the .NET Platform and ASP.NET integration.</dc:description>
+    <dc:publisher>McGraw-Hill/Osborne</dc:publisher>
+    <dc:contributor>Jennifer Malnick (editor)</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, McGraw-Hill/Osborne, 2002</dc:source>
+    <dc:identifier>ISBN 0072195142</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2002</dc:rights>
+  </record>
+  
+  <record id="9910.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>MOUS Essentials: Access 97 Expert</dc:title>
+    <dc:creator>Robert Ferrett, John Preston, Sally Preston</dc:creator>
+    <dc:subject>Database management</dc:subject>
+    <dc:description>MOUS Essentials were created specifically to meet the guidelines established by Microsoft for the Microsoft Office User Specialist ("MOUS") Program. The authors provide an emphasis on step-by-step tutorials with large screen shots, outstanding student pedagogy, and plenty of exercises. The authors have included a number of new elements designed to help students prepare for the MOUS exams.</dc:description>
+    <dc:publisher>Que Education and Training</dc:publisher>
+    <dc:contributor>Randy Haubner (editor)</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Que Education and Training, 1999</dc:source>
+    <dc:identifier>ISBN 1580760570</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>MOUS Essentials</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©1999</dc:rights>
+  </record>
+  
+  <record id="9911.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Select Series: Microsoft Access 2002 Volume 1</dc:title>
+    <dc:creator>Pamela R. Toliver</dc:creator>
+    <dc:subject>Database management</dc:subject>
+    <dc:description>The Select MS Office 2002 Series is certified to core and expert levels of Microsoft Office XP, it has a project-based, step-by-step approach, and is customizable in the RightPHit Program.</dc:description>
+    <dc:publisher>Prentice-Hall Inc.</dc:publisher>
+    <dc:contributor>Jodi McPherson (editor)</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Prentice-Hall Inc., 2002</dc:source>
+    <dc:identifier>ISBN 0130601500</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>The Select Series</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2002</dc:rights>
+  </record>
+  
+  <record id="9912.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Distributed Database Systems</dc:title>
+    <dc:creator>David Bell, Jane Grimson</dc:creator>
+    <dc:subject>Database management</dc:subject>
+    <dc:description>This book adopts a practical approach, reviewing the fundamentals of database technology and developments in data communications (including standards) before reviewing the principles of distributed DB systems. It includes case studies of the leading products.</dc:description>
+    <dc:publisher>Addison-Wesley Publishing Company, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1992</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Addison-Wesley Publishing Company, Inc., 1992</dc:source>
+    <dc:identifier>ISBN 0201544008</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>International Computer Science Series</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©1992</dc:rights>
+  </record>
+  
+  <record id="9913.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>MCSE: Administering Microsoft SQL Server 7</dc:title>
+    <dc:creator>Jeffry Byrne</dc:creator>
+    <dc:subject>Databases; SQL (Computer program language)</dc:subject>
+    <dc:description>This isn't just a guide to passing Microsoft's SQL Server 7 System Administration exam: it's a guide to actually running your SQL Server database system. You'll start with a detailed overview of SQL Server 7's fundamentals - including logical structures, key components and the Transact-SQL language.</dc:description>
+    <dc:publisher>Prentice-Hall Inc.</dc:publisher>
+    <dc:contributor>Jeffrey Pepper (editor)</dc:contributor>
+    <dc:date>2000</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Prentice-Hall Inc., 2000</dc:source>
+    <dc:identifier>ISBN 0130868639</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Microsoft Certified Systems Engineer Series</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2000</dc:rights>
+  </record>
+  
+  <record id="9914.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Inside Microsoft SQL Server 2005: T-SQL Querying (2005 edition)</dc:title>
+    <dc:creator>Itzik Ben-Gan, Lubor Kollar, Dejan Sarka</dc:creator>
+    <dc:subject>SQL (Computer program language)</dc:subject>
+    <dc:description>Written by a T-SQL guru, this guide focuses on advanced querying techniques and how queries are interpreted and processed by the SQL Server execution engine.</dc:description>
+    <dc:publisher>Microsoft Press</dc:publisher>
+    <dc:contributor>Ben Ryan (editor)</dc:contributor>
+    <dc:date>2006</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>2005 edition, Microsoft Press, 2006</dc:source>
+    <dc:identifier>ISBN 0735623139</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Inside Microsoft SQL Server 2000</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2006</dc:rights>
+  </record>
+  
+  <record id="9915.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Data Warehouse Design: Modern Principles and Methodologies</dc:title>
+    <dc:creator>Matteo Golfarelli, Stefano Rizzi</dc:creator>
+    <dc:subject>Data warehousing</dc:subject>
+    <dc:description>A unique and authoritative book that blends recent research developments with industry-level practices for researchers, students, and industry practitioners.</dc:description>
+    <dc:publisher>McGraw-Hill</dc:publisher>
+    <dc:contributor>Claudio Pagliarani (translator)</dc:contributor>
+    <dc:date>2009</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, McGraw-Hill, 2009</dc:source>
+    <dc:identifier>ISBN 978007161039</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2009</dc:rights>
+  </record>
+  
+  <record id="9916.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Professional Microsoft SQL Server 2008 Integration Services</dc:title>
+    <dc:creator>Brian Knight, Erik Veerman, Grant Dickinson, Douglas Hinson, Darren Herbold</dc:creator>
+    <dc:subject>SQL server; Database management</dc:subject>
+    <dc:description>Renowned author Brian Knight and his expert coauthors show developers how to master the 2008 release of SSIS, which is both more powerful and more complex than ever Case studies and tutorial examples acquired over the three years since the previous edition will contribute to helping illustrate advanced concepts and techniques New chapters include coverage of data warehousing using SSIS, new methods for managing the SSIS platform, and improved techniques for ETL operations.</dc:description>
+    <dc:publisher>Wiley Publishing, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2008</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Wiley Publishing, Inc., 2008</dc:source>
+    <dc:identifier>ISBN 9780470247952</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2008</dc:rights>
+  </record>
+  
+  <record id="9917.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Programming Microsoft SQL Server 2008</dc:title>
+    <dc:creator>Leonard Lobel, Andrew J. Brust, Stephen Forte</dc:creator>
+    <dc:subject>SQL server</dc:subject>
+    <dc:description>Written by industry professionals who have been working with SQL Server 2008 since the earliest code, this reference expertly covers the programming fundamentals for SQL Server 2008 with crucial real-world context and extensive code samples.</dc:description>
+    <dc:publisher>Microsoft Press</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2009</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Microsoft Press, 2009</dc:source>
+    <dc:identifier>ISBN 9780735625990</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2009</dc:rights>
+  </record>
+  
+  <record id="9918.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Microsoft SQL Server 2005 Analysis Services</dc:title>
+    <dc:creator>Edward Melomed, Irina Gorbach, Alexander Berger, Py Bateman</dc:creator>
+    <dc:subject>SQL server</dc:subject>
+    <dc:description>Microsoft SQL Server Analysis Services provides fast access to data by means of multidimensional data structures and the multidimensional query languag MDX. Analysis Services provides the capability to design, create, and manage multidimensional cubes based on data warehouse tables, and it serves as the foundation for the Microsoft Business Intelligence strategy.</dc:description>
+    <dc:publisher>Sams Publishing</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2007</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Sams Publishing, 2007</dc:source>
+    <dc:identifier>ISBN 0672327821</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2007</dc:rights>
+  </record>
+  
+  <record id="9919.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Client/Server Programming With Access & SQL Server: The Integrated Guide for Programmers and Developers</dc:title>
+    <dc:creator>Leo Sanin, Renzhong Chen</dc:creator>
+    <dc:subject>Database management; SQL server</dc:subject>
+    <dc:description>This technical guide seeks to provide answers to real-world problems and offer insight into the nuances of the SQL Server/Access programming environment. Readers also learn how to overcome technical hurdles, program in Access Basic, deal with multi-user issues and much more.</dc:description>
+    <dc:publisher>Ventana Communications Group</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1997</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Ventana Communications Group, 1997</dc:source>
+    <dc:identifier>ISBN 1566046939</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©1997</dc:rights>
+  </record>
+  
+  <record id="9920.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Systems Using Oracle: A Simplified Guide to SQL and PL/SQL (First edition)</dc:title>
+    <dc:creator>Nilesh Shah</dc:creator>
+    <dc:subject>Oracle (Computer file); Relational databases</dc:subject>
+    <dc:description>This text first introduces students to relational database concepts and database designing techniques, then teaches them how to design and implement accurate and effective database systems.</dc:description>
+    <dc:publisher>Prentice-Hall, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Prentice-Hall Inc., 2002</dc:source>
+    <dc:identifier>ISBN 0130909335</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2002</dc:rights>
+  </record>
+  
+  <record id="9921.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Systems Using Oracle: A Simplified Guide to SQL and PL/SQL (Second edition)</dc:title>
+    <dc:creator>Nilesh Shah</dc:creator>
+    <dc:subject>Oracle (Computer file); Relational databases</dc:subject>
+    <dc:description>Updated for Oracle 91, this text first introduces students to relational database concepts and database designing techniques, then teaches them how to design and implement accurate and effective database systems.</dc:description>
+    <dc:publisher>Pearson Education, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2005</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>2nd edition, Pearson Education, Inc., 2005</dc:source>
+    <dc:identifier>ISBN 0130909335</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2005</dc:rights>
+  </record>
+  
+  <record id="9922.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Microsoft SQL Server 2008—Business Intelligence Development and Maintenance: MCTS Self-Paced Training Kit (Exam 70-448)</dc:title>
+    <dc:creator>Erik Veerman, Teo Lachev, Dejan Sarka</dc:creator>
+    <dc:subject>SQL server</dc:subject>
+    <dc:description>Create SSIS packages; troubleshoot data flow and control flow Configure, debug, and deploy SSIS solutions Develop SSAS cubes for OLAP and data mining services Implement custom logic with MDX Optimize storage design and query performance Create SSRS reports; enable interactivity; write custom code Manage the report environment Configure security features for SSIS, SSAS, and SSRS Assess your skills with the practice tests on CD.</dc:description>
+    <dc:publisher>Microsoft Press</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2009</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original print edition, Microsoft Press, 2009</dc:source>
+    <dc:identifier>ISBN 9780735626362</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2009</dc:rights>
+  </record>
+  
+  <record id="9923.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>MCTS Self-Paced Training Kit (Exam 70-643): Configuring Windows Server 2008 Applications Infrastructure (Second edition)</dc:title>
+    <dc:creator>J.C. Mackin, Anil Desai</dc:creator>
+    <dc:subject>Web hosting</dc:subject>
+    <dc:description>Fully updated for Windows Server 2008 R2! Ace your preparation for the skills measured by MCTS Exam 70-643 - and on the job - with this official Microsoft study guide. Work at your own pace through a series of lessons and reviews that fully cover each exam objective. Then, reinforce and apply what you've learned through real-world case scenarios and practice exercises.</dc:description>
+    <dc:publisher>Microsoft Press</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2011</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>2nd edition, Microsoft Press, 2011</dc:source>
+    <dc:identifier>ISBN 9780735648784</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>©2011</dc:rights>
+  </record>
 
 </catalog>
