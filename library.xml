@@ -37,5 +37,23 @@
     <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
   </record>
 
+<record id="0130339695.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Systems: design, implementation, and management</dc:title>
+    <dc:creator>Peter Rob, Carlos Coronel</dc:creator>
+    <dc:subject>Database design; Database management</dc:subject>
+    <dc:description>Information is derived from data, which are usually stored in a database.</dc:description>
+    <dc:publisher>Course Technology</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1997</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Third Edition, Course Technology, 1997</dc:source>
+    <dc:identifier>ISBN 0-7600-4904-1</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1993 by Course Technology</dc:rights>
+  </record>
+
 
 </catalog>
