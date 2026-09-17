@@ -1,42 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog name="Silliman University College of Computer Studies Information Resource Center Catalog">
 
-<record id="0501.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Database Systems: design, implementation, and management (Second edition)</dc:title>
-    <dc:creator>Peter Rob, Carlos Coronel</dc:creator>
-    <dc:subject>Database design; Database management</dc:subject>
-    <dc:description>Information is derived from data, which are usually stored in a database.</dc:description>
-    <dc:publisher>Wadsworth Publishing Company</dc:publisher>
-    <dc:contributor>Peter G. W. Keen</dc:contributor>
-    <dc:date>1993</dc:date>
-    <dc:type>Text; Figures and Tables</dc:type>
-    <dc:format>Physical Book</dc:format>
-	<dc:source>N/A</dc:source>
-    <dc:identifier>ISBN 0534170528</dc:identifier>
-    <dc:language>English</dc:language>
-	<dc:relation>N/A</dc:relation>
-	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
-  </record>
-	
-<record id="0502.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Database Systems: design, implementation, and management (Third edition)</dc:title>
-    <dc:creator>Peter Rob, Carlos Coronel</dc:creator>
-    <dc:subject>Database design; Database management</dc:subject>
-    <dc:description>Information is derived from data, which are usually stored in a database.</dc:description>
-    <dc:publisher>Wadsworth Publishing Company</dc:publisher>
-    <dc:contributor>Peter G. W. Keen</dc:contributor>
-    <dc:date>1993</dc:date>
-    <dc:type>Text; Figures and Tables</dc:type>
-    <dc:format>Physical Book</dc:format>
-	<dc:source>N/A</dc:source>
-    <dc:identifier>ISBN 0534170528</dc:identifier>
-    <dc:language>English</dc:language>
-	<dc:relation>N/A</dc:relation>
-	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
-  </record>
-
 	<record id="9901.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Designing Web Usability: The Practice of Simplicity</dc:title>
     <dc:creator>Jakob Nielsen</dc:creator>
@@ -450,5 +414,186 @@
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>©2011</dc:rights>
   </record>
+
+<record id="0501.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Systems: design, implementation, and management</dc:title>
+    <dc:creator>Peter Rob, Carlos Coronel</dc:creator>
+    <dc:subject>Database design; Database management</dc:subject>
+    <dc:description>Information is derived from data, which are usually stored in a database.</dc:description>
+    <dc:publisher>Wadsworth Publishing Company</dc:publisher>
+    <dc:contributor>Peter G. W. Keen</dc:contributor>
+    <dc:date>1993</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Wadsworth Publishing Company, 1993</dc:source>
+    <dc:identifier>ISBN 0-534-17052-8</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
+  </record>
+	
+<record id="0502.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Systems: design, implementation, and management (Third edition)</dc:title>
+    <dc:creator>Peter Rob, Carlos Coronel</dc:creator>
+    <dc:subject>Database design; Database management</dc:subject>
+    <dc:description>Information is derived from data, which are usually stored in a database.</dc:description>
+    <dc:publisher>Wadsworth Publishing Company</dc:publisher>
+    <dc:contributor>Peter G. W. Keen</dc:contributor>
+    <dc:date>1993</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Third Edition, Course Technology, 1997</dc:source>
+    <dc:identifier>ISBN 0-534-17052-8</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>The Wadsworth MIS Series</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
+  </record>
+
+<record id="0503.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Computer Graphics: principles and practices</dc:title>
+    <dc:creator>James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes</dc:creator>
+    <dc:subject>Computer Graphics</dc:subject>
+    <dc:description>Graphical interfaces have replaced textual interfaces as the standard means for user computer interaction.</dc:description>
+    <dc:publisher>Addison- Wesley Publishing Company</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1996, 1990</dc:date>
+    <dc:type>Plates, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Second Edition in C, Addison- Wesley Publishinng Company, 1996</dc:source>
+    <dc:identifier>ISBN 0-201-84840-6</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1996,1990 by Addison- Wesley Publishing Company, Inc.</dc:rights>
+  </record>
+
+<record id="0504.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>VoiceXML: introduction to developing speech applications</dc:title>
+    <dc:creator>James A. Larson</dc:creator>
+    <dc:subject>VoiceXML; Speech analysis: Automatic speech recognition</dc:subject>
+    <dc:description>VoiceXML is a markup language for building speech interfaces- the verbal equivalent of HTML.</dc:description>
+    <dc:publisher>Alan Apt.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2003</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Alan Apt., 2003</dc:source>
+    <dc:identifier>ISBN 0-13-009262-2</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2003 by Pearson Education, Inc.</dc:rights>
+  </record>
+
+<record id="0505.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Visual modeling with rational rose 2002 and UML</dc:title>
+    <dc:creator>Terry Quatrani</dc:creator>
+    <dc:subject>Visual programming; object- oriented methods; UML</dc:subject>
+    <dc:description>Visual modeling is a way of thinking about problems using models organized around real- world ideas.</dc:description>
+    <dc:publisher>Pearson Education</dc:publisher>
+    <dc:contributor>Foreword by Grady Booch</dc:contributor>
+    <dc:date>2003</dc:date>
+    <dc:type>Text and Figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Pearson Education, 2003</dc:source>
+    <dc:identifier>ISBN 0201729326</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2003 by Pearson Education, Inc.</dc:rights>
+  </record>
+
+<record id="0506.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Inside Light Wave 3D</dc:title>
+    <dc:creator>Dan Ablan</dc:creator>
+    <dc:subject>Lightwave; Character Animation; Facial Animation</dc:subject>
+    <dc:description>It discussed the importance of a good working evironment forLightWave workstation.</dc:description>
+    <dc:publisher>New Riders Publishing</dc:publisher>
+    <dc:contributor>Patrick Beck; Mike DeSantis; Bill Fleming; Bob Hood; Prem subrahmanyan</dc:contributor>
+    <dc:date>1998</dc:date>
+    <dc:type>Text and Figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, New Riders Publishing, 1998</dc:source>
+    <dc:identifier>ISBN 1-56205-799-5</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1998 by New Riders Publishing</dc:rights>
+  </record>
+
+<record id="0507.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Computer Graphics: using openGl</dc:title>
+    <dc:creator>F.S. Hill, Jr.</dc:creator>
+    <dc:subject>Computer Graphics</dc:subject>
+    <dc:description>This book provides an introduction to computer graphics for students who wish to learn the basic principles and techniques of the field and who, in addition, want to write substantial graphics applications themselves.</dc:description>
+    <dc:publisher>Alan Apt.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Text, Figures and Plates</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Second Edition, Alan Apt, 2001</dc:source>
+    <dc:identifier>ISBN 0-02-354856-8</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2001 by Prentice Hall</dc:rights>
+  </record>
+
+<record id="0508.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Interactive Computer Graphics: a top-down approach with OpenGL </dc:title>
+    <dc:creator>Edward Angel</dc:creator>
+    <dc:subject>Computer Graphics; Interactive computer systems</dc:subject>
+    <dc:description>This book is an introduction to computer graphics, wiht an emphasis on applications programming.</dc:description>
+    <dc:publisher>Addison-Wesley</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2003, 2000, 1997</dc:date>
+    <dc:type>Text, Figures and Plates</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Third Edition, Addison- Weslet, 2003</dc:source>
+    <dc:identifier>ISBN 0-201-77343-0</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2003 by Pearson Education, Inc.</dc:rights>
+  </record>
+
+<record id="0509.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>GPU Gems: programming techniques, tips, and tricks for real- time graphics</dc:title>
+    <dc:creator>Randima Fernando (Editor)</dc:creator>
+    <dc:subject>Programming Techniques; Animation</dc:subject>
+    <dc:description>This book is an extensive and practival collection of articles about real-time computer graphics, accumulating the knowledge and experience of experts in both industry and academia.</dc:description>
+    <dc:publisher>Addison-Wesley</dc:publisher>
+    <dc:contributor>Curtis Beeson; Kevin Bjorke; Rod Bogart; Ian Buck; Michael Bunnell</dc:contributor>
+    <dc:date>2004</dc:date>
+    <dc:type>Text, Figures and Pictures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Addison-Wesley, 2004</dc:source>
+    <dc:identifier>ISBN 0-321-22832-4</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2004 by NVIDIA Corporation</dc:rights>
+  </record>
+
+<record id="0510.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Programming in Visual C# 2008</dc:title>
+    <dc:creator>Julia Case Bradley, Anita C. Millspaugh</dc:creator>
+    <dc:subject>C# (Computer program language); Microsoft Visual C#; Visual Programming Langauges</dc:subject>
+    <dc:description>This book incorporates the basic concepts of programming, problem solving, and programming logic, as well as the design techniques of an object- oriented event/ driven language.</dc:description>
+    <dc:publisher>McGraw-Hill</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2010</dc:date>
+    <dc:type>Text and Figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, McGraw-Hill, 2010</dc:source>
+    <dc:identifier>ISBN 978-0-07-351721-6</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2010 by The McGraw-HIl Companies, Inc. All rights reserved.</dc:rights>
+  </record>
+
 
 </catalog>
