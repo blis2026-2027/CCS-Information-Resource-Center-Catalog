@@ -595,5 +595,378 @@
     <dc:rights>© 2010 by The McGraw-HIl Companies, Inc. All rights reserved.</dc:rights>
   </record>
 
+<record id="4401.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>System analysis and design (Sixth Edition)</dc:title>
+    <dc:creator>Jeffrey L. Whitten, Lonnie D. Bentley, Kevin C. Dittman</dc:creator>
+    <dc:subject>Systems desgin, system analysis</dc:subject>
+    <dc:description>System analysis and design sixth edition is intended to support one or more practical courses in information systems development. These courses are normally taught to both information systems and business majors at the sophomore, junior, senior, or graduate level.</dc:description>
+    <dc:publisher>McGraw-Hill</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2004</dc:date>
+    <dc:type>Figures, graphs, text, and tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Sixth ed. from McGraw-Hill</dc:source>
+    <dc:identifier>ISBN 0-07-247417-3</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2004. Exclusive rights by The McGraw-Hill Companies, Inc. for manufacture and export.</dc:rights>
+  </record>
+
+<record id="4402.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>System analysis, design, and implementation</dc:title>
+    <dc:creator>John G. Burch</dc:creator>
+    <dc:subject>System analysis, system design</dc:subject>
+    <dc:description>The book divides computer information systems into six design components: output, input, process, controls, database, and technology platform, which it includes telecommunication networks and computers.</dc:description>
+    <dc:publisher>Boyd and frase publishing company</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1992</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Orginial edition from boyd and frase publishing company</dc:source>
+    <dc:identifier>ISBN 0-87835-818-8</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 1992. Boyd and fraser publishing company</dc:rights>
+  </record>
+
+<record id="4403.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>System analysis and design in a changing world</dc:title>
+    <dc:creator>John W. Satzinger, Robert B. Jackson, Stephen D. Burd</dc:creator>
+    <dc:subject>Information systems development</dc:subject>
+    <dc:description>It is not easy to develop information systems in today's rapidly changing environment, but the satisfaction and rewards for a job well done are substatial. This text is design for students and practitioners of analysis and design who are up to the challenge of trying to do right.</dc:description>
+    <dc:publisher>Course Technology</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edition from course technology</dc:source>
+    <dc:identifier>ISBN 0-7600-5879-2</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2000. Course Technology</dc:rights>
+  </record>
+
+<record id="4404.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>System analysis and design: an object-oriented approach with UML</dc:title>
+    <dc:creator>Alan Dennis, Barbara Haley Wixom, David Tegarden</dc:creator>
+    <dc:subject>System analysis, system design</dc:subject>
+    <dc:description>System analysis and design (SAD) is an exciting, active field in which analysts continually learn new techniques and approaches to develop systems more effectively and efficiently. However there is a core set of skills that all analysts need to know - no matter what approach or methodology is used.</dc:description>
+    <dc:publisher>John Wiley and Sons, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edition from John Wiley and Sons, Inc.</dc:source>
+    <dc:identifier>ISBN 0-471-41387-9</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2002. John Wiley and Sons, Inc. All rights reserved.</dc:rights>
+  </record>
+
+<record id="4405.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Information systems and methodologies: a framework for understanding</dc:title>
+    <dc:creator>T. William Olle, Jacques Hagelstein, Ian G. Macdonald, Colette Rolland, Henk G. Sol, Frans J.M. Van Assche, Alexander A. Verrijn-Stuart</dc:creator>
+    <dc:subject>System design</dc:subject>
+    <dc:description>With the advent of large commercial  information systems and major research projects working towards new systems for the future, it is crucial that students, professional analysts and systems designers should gain an understanding of the principles and practice involved.</dc:description>
+    <dc:publisher>Addison-Wesley Publishing Company</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1991</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edition from course technology</dc:source>
+    <dc:identifier>ISBN 0-201-54443-1</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 1991. Addison-Wesley Publishing Company</dc:rights>
+  </record>
+
+<record id="4406.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>System analysis and design</dc:title>
+    <dc:creator>Kenneth E. Kendall, Julie E. Kendall</dc:creator>
+    <dc:subject>System design</dc:subject>
+    <dc:description>The text is divided into five major parts: system analysis fundamentals (part 1), information requirements analysis (part 2) the analysis process (part 3), the essential of design (part 4), and software engineering and implementation (part 5).</dc:description>
+    <dc:publisher>Pearson Education, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Tables, Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Fifth ed. from Pearson Education, Inc.</dc:source>
+    <dc:identifier>ISBN 0-13-042365-3</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2002. Pearson Education, Inc.</dc:rights>
+  </record>
+
+<record id="4407.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>System analysis and design</dc:title>
+    <dc:creator>Gary B. Shelly, Thomas J. Cashman, Harry J. Rosenblatt</dc:creator>
+    <dc:subject>System analysis, system design</dc:subject>
+    <dc:description>The Shelly Cashman series offers the finest textbooks in computer education. System analysis and design, third edition continues with the innovation, quality, and reliability that you have come to expect form this series.</dc:description>
+    <dc:publisher>Course Technology - ITP (International Thompson Publishing)</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1998</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Third ed. from Course Technology - ITP</dc:source>
+    <dc:identifier>ISBN 0-7895-4313-3</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 1991. Course Technology - ITP</dc:rights>
+  </record>
+
+<record id="4408.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Essentials of systems analysis and design</dc:title>
+    <dc:creator>Joseph S. Valacich, Joey F. George, Jeffrey A. Hoffer</dc:creator>
+    <dc:subject>System analysis, system design</dc:subject>
+    <dc:description>In today's information and technology-driven business world, students need to be aware of three key factors. First, it is more crucial than ever to know how to organize and access information strategically. Second, success often depends on the ability to work as part of a team. Third, the internet will play an important part in their work lives.
+</dc:description>
+    <dc:publisher>Prentice-Hall, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Tables, Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Orginal edition from Prentice-Hall, Inc.</dc:source>
+    <dc:identifier>ISBN 0-13-018373-3</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2001. Prentice-Hall, Inc.</dc:rights>
+  </record>
+
+<record id="4409.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Computer architecture: design and performance</dc:title>
+    <dc:creator>Barry Wilkinson</dc:creator>
+    <dc:subject>Computer Architecture</dc:subject>
+    <dc:description>This book is concerned with the essential design techniques to improve the performance of computer systems. Many design techniques to improve performance involve the use of parallelism in which more than one operation is performed simultaneously.
+</dc:description>
+    <dc:publisher>Prentice Hall Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1996</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Orginal edition from Prentice-Hall, Inc.</dc:source>
+    <dc:identifier>ISBN 0-13-518200-X</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 1996. Prentice Hall Inc.</dc:rights>
+  </record>
+
+<record id="4410.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Computer architecture</dc:title>
+    <dc:creator>Robert J. Baron, Lee Higbie</dc:creator>
+    <dc:subject>Computer Architecture</dc:subject>
+    <dc:description>Computer design is the art of producing a computer to a given specification at a competitive cost and performance. Computer architecture is the art of making a specification that will live through several generations of technologies.
+</dc:description>
+    <dc:publisher>Addison-Wesley Publishing Company</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1992</dc:date>
+    <dc:type>Tables, Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edition from Addison-Wesley Publishing Company, Inc.</dc:source>
+    <dc:identifier>ISBN 0-201-50923-7</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 1992. Addison-Weslet Publishing Company, Inc.</dc:rights>
+  </record>
+
+<record id="4411.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The architecture of computer hardware and systems software: an information technology
+approach</dc:title>
+    <dc:creator>Irv Englander</dc:creator>
+    <dc:subject>Computer system software</dc:subject>
+    <dc:description>The subject of this book is the architecture of computer systems. Computer architecture is about the structure and operation of digital computers. Computer architecture is concerned with the operational methods of the hardware; with the services provided by operating system software; with the acquisition, processing, storage, and output of data; and with the interaction between computers.
+</dc:description>
+    <dc:publisher>John Wiley and Sons, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1996</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Orginal edition from John Wiley and Sons, Inc.</dc:source>
+    <dc:identifier>ISBN 0-471-31037-9</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 1996. John Wiley and Sons, Inc.</dc:rights>
+  </record>
+
+<record id="4412.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Computer organization and design: the hardware/software interface</dc:title>
+    <dc:creator>David A. Patterson, John L. Hennessy</dc:creator>
+    <dc:subject>Computer organization, computers - design and construction, computer interfaces</dc:subject>
+    <dc:description>Computer design is an exciting and competitive discipline. The microprocessor industry is on a treadmill where we double microprocessor performance every 18 months and double microprocessor complexity - measured by the number of transistors per chip - every 24 months.
+</dc:description>
+    <dc:publisher>Morgan Kaufmann Publishers, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1998</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edition from Morgan Kaufmann Publishers, Inc.</dc:source>
+    <dc:identifier>ISBN 1-55860-491-X</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 1998. Morgan Kaufmann Publishers, Inc.</dc:rights>
+  </record>
+
+<record id="4413.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>High performance computing</dc:title>
+    <dc:creator>Kevin Dowd, Charles R. Severance</dc:creator>
+    <dc:subject>Computing</dc:subject>
+    <dc:description>This book is written for people who are interested in computer performance or who need to understand it for their job. Those faced with purchase decisions will find clear explanations of industry benchmarkd and the benchmark process, as well as a few pointers on what to watch for.
+</dc:description>
+    <dc:publisher>O'Reilly and Associates, Inc</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1998</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edtion from O'Reilly and Associates, Inc.</dc:source>
+    <dc:identifier>ISBN 1-56592-312-X</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 1998. O'Reilly and Associates, Inc.</dc:rights>
+  </record>
+
+<record id="4414.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Foundations of multithread, parallel, and distributed programming</dc:title>
+    <dc:creator>Gregory R. Andrews</dc:creator>
+    <dc:subject>Parallel programming</dc:subject>
+    <dc:description>Parallel and distributed computing are today pervasive concepts. As usual in computer science, advances have been led by hardware designers, who keep building bigger, faster, more powerful computers and communication networks.
+</dc:description>
+    <dc:publisher>Addison Wesley Longman, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2000</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edition from Addison Wesley Longman, Inc.</dc:source>
+    <dc:identifier>ISBN 0-201-35752-6</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2000. Addison Wesley Longman, Inc.</dc:rights>
+  </record>
+
+<record id="4415.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Fundamentals or parallel processing</dc:title>
+    <dc:creator>Harry Jordan, Gita Alaghband</dc:creator>
+    <dc:subject>Parallel programming, parallel processing</dc:subject>
+    <dc:description>Computing is usually taught from a step-by-step or serial point of view. Algorithms are organized as a sequence of computational steps, programs are written one command after another, and machines are designed to execute a chain of machine instructions by performing a string of microsteps, one after another.
+</dc:description>
+    <dc:publisher>Pearson Education, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2003</dc:date>
+    <dc:type>Tables, Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edition from Pearson Education, Inc.</dc:source>
+    <dc:identifier>ISBN 0-13-901158-7</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2003. Pearson Education, Inc.</dc:rights>
+  </record>
+
+<record id="4416.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Parallel programming: techniques and applications using networked workstations and parallel computers</dc:title>
+    <dc:creator>Barry Wilkinson, Michael Allen</dc:creator>
+    <dc:subject>Parallel programming</dc:subject>
+    <dc:description>The first edition of this text was the direct outcome of a National Science Foundation grant awarded to the authors at the University of North Carolina at Charlotte to introduce parallel programming in the first college year.
+</dc:description>
+    <dc:publisher>Pearson Education, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2005</dc:date>
+    <dc:type>Tables, Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Second ed. from Pearson Education, Inc.</dc:source>
+    <dc:identifier>ISBN 0-13-140563-2</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2005. Pearson Education, Inc.</dc:rights>
+  </record>
+
+<record id="4417.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>IT Architectures and middleware: strategies for building large, integrated systems</dc:title>
+    <dc:creator>Chris Britton</dc:creator>
+    <dc:subject>Computer architecture, middleware, information technology</dc:subject>
+    <dc:description>This book is not for everyone. If you have no ambitions beyond programming, you will find this book short on product detail. It does not tell you anything about installation, there are no proper coding examples, there is no survey of products, and little in the way of products comparisons.
+</dc:description>
+    <dc:publisher>Unisys Corporation</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edition from Unisys Corporation. Published by Addison-Wesley</dc:source>
+    <dc:identifier>ISBN 0-201-70907-4</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2001. Unisys Corporation. Published by Addison-Wesley</dc:rights>
+  </record>
+
+<record id="4418.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Distributed systems: concepts and design</dc:title>
+    <dc:creator>George Coulouris, Jean Dollimore, Tim Kindberg</dc:creator>
+    <dc:subject>Electronic data processing, distributed processing</dc:subject>
+    <dc:description>The book aim to provide an understanding of the principles on which the internet and other distributed systems are based, their architecture, algorithms, and design.
+</dc:description>
+    <dc:publisher>Pearson Education Limited</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2005</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Fourth ed. from Pearson Education Limited</dc:source>
+    <dc:identifier>ISBN 0-321-26354-5</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2005. Pearson Education Limited</dc:rights>
+  </record>
+
+<record id="4419.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Service-oriented architecture: concepts, technology, and design</dc:title>
+    <dc:creator>Thomas Erl</dc:creator>
+    <dc:subject>Computer architecture</dc:subject>
+    <dc:description>One of the most interesting facets of this project has been defining service-orientation within the context of web services.
+</dc:description>
+    <dc:publisher>Pearson Education, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2005</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original edition from Pearson Education, Inc.</dc:source>
+    <dc:identifier>ISBN 0-13-185858-0</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 2005. Pearson Education, Inc.</dc:rights>
+  </record>
+
+<record id="4420.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Client/server survival guide</dc:title>
+    <dc:creator>Robert Orgali, Dan Harkey, Jeri Edwards</dc:creator>
+    <dc:subject>Database systems, operating system</dc:subject>
+    <dc:description>This new Survival Guide helped us understand the "latest and greatest" client/server technology and how to use it in practical Martian situtations.
+</dc:description>
+    <dc:publisher>John Wiley and Sons, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Text and figures</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Third ed. from John Wiley and Sons, Inc.</dc:source>
+    <dc:identifier>ISBN 0-471-31615-6</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>Copyright 1999. John Wiley and Sons, Inc.</dc:rights>
+  </record>
 
 </catalog>
