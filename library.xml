@@ -427,7 +427,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original Print Edition, Wadsworth Publishing Company, 1993</dc:source>
     <dc:identifier>ISBN 0-534-17052-8</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
@@ -445,7 +445,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Third Edition, Course Technology, 1997</dc:source>
     <dc:identifier>ISBN 0-534-17052-8</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>The Wadsworth MIS Series</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
@@ -463,7 +463,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Second Edition in C, Addison- Wesley Publishinng Company, 1996</dc:source>
     <dc:identifier>ISBN 0-201-84840-6</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 1996,1990 by Addison- Wesley Publishing Company, Inc.</dc:rights>
@@ -481,7 +481,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original Print Edition, Alan Apt., 2003</dc:source>
     <dc:identifier>ISBN 0-13-009262-2</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 2003 by Pearson Education, Inc.</dc:rights>
@@ -499,7 +499,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original Print Edition, Pearson Education, 2003</dc:source>
     <dc:identifier>ISBN 0201729326</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 2003 by Pearson Education, Inc.</dc:rights>
@@ -517,7 +517,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original Print Edition, New Riders Publishing, 1998</dc:source>
     <dc:identifier>ISBN 1-56205-799-5</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 1998 by New Riders Publishing</dc:rights>
@@ -535,7 +535,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Second Edition, Alan Apt, 2001</dc:source>
     <dc:identifier>ISBN 0-02-354856-8</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 2001 by Prentice Hall</dc:rights>
@@ -553,7 +553,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Third Edition, Addison- Weslet, 2003</dc:source>
     <dc:identifier>ISBN 0-201-77343-0</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 2003 by Pearson Education, Inc.</dc:rights>
@@ -571,7 +571,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original Print Edition, Addison-Wesley, 2004</dc:source>
     <dc:identifier>ISBN 0-321-22832-4</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 2004 by NVIDIA Corporation</dc:rights>
@@ -589,12 +589,175 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original Print Edition, McGraw-Hill, 2010</dc:source>
     <dc:identifier>ISBN 978-0-07-351721-6</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 2010 by The McGraw-HIl Companies, Inc. All rights reserved.</dc:rights>
   </record>
 
+<record id="0511.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Code: and other laws of cyberspace</dc:title>
+    <dc:creator>Lawrence Lessig</dc:creator>
+    <dc:subject>Code; Law; Cyberspace</dc:subject>
+    <dc:description>This book is all about codes of cyberspace and it argues that this belief is wrong. It is not in the nature of cyberspace has no "nature". It only hase code- the software and hardware that make cyberspace what it is.</dc:description>
+    <dc:publisher>Basic Books</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Basic Books, 1999</dc:source>
+    <dc:identifier>ISBN 0-465-03912-X</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1999 by Lawrence Lessig</dc:rights>
+  </record>
+
+<record id="0512.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Data Smog: surviving the information glut </dc:title>
+    <dc:creator>David Shenk</dc:creator>
+    <dc:subject>Information Society; Information Society- United States; Information Technology- Social Aspects- United States</dc:subject>
+    <dc:description>This book aims to be a reminder of the critical distinction between information and understanding, and it demonstrates why you don't have to feel personally overloaded with information to be a victim of the information glut.</dc:description>
+    <dc:publisher>HarperEdge</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1997</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, HarperEdge, 1997</dc:source>
+    <dc:identifier>ISBN 0-06-018701-8</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1997 by David Shenk. All rights reserved.</dc:rights>
+  </record>
+
+<record id="0513.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Silicon snake oil: second thought on the information highway</dc:title>
+    <dc:creator>Clifford Stoll</dc:creator>
+    <dc:subject>Computers and civilization; Internet: Information Technolgoy</dc:subject>
+    <dc:description>No phemenon in modern times has recieved more attention, held out more promise, nor achieved more mythic stature than the information highway. this computer utopia is said to educate, entertain, and inform.</dc:description>
+    <dc:publisher>Doubleday</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1995</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Doubleday, 1995</dc:source>
+    <dc:identifier>ISBN 0-385-41993-7</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1995 by Clifford Stoll. All rights reserved.</dc:rights>
+  </record>
+
+<record id="0514.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Making a world of difference: IT in a global context</dc:title>
+    <dc:creator>Geoff Walsham</dc:creator>
+    <dc:subject>Information Technology</dc:subject>
+    <dc:description>This book presupposes a reasonable level of prior knowledge on organizations and IT, and is thus aimed primarily at postgraduate students, research communites concerned with IT in organizations and societies, and practitioners involved in the development and management of information and communication technologies.</dc:description>
+    <dc:publisher>John Wiley and Sons, LTD</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, John Wiley and Sons, Ltd, 2001</dc:source>
+    <dc:identifier>ISBN  0-471-87724-7</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2001 by John Wiley and Sons LTD</dc:rights>
+  </record>
+
+<record id="0515.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Women's Studies Reader</dc:title>
+    <dc:creator>N/A</dc:creator>
+    <dc:subject>Women; Women Issues</dc:subject>
+    <dc:description>This book is all about women such as issues, religion, politics, media, history, health, violence against women, development and environment.</dc:description>
+    <dc:publisher>Institute of Women's Studies</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2004</dc:date>
+    <dc:type>Text and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Institute of Women's Studies, 2004</dc:source>
+    <dc:identifier>ISBN 971-8605-32-0</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2004 by the Institute of Women's Studies St. Scholastica's College</dc:rights>
+  </record>
+
+<record id="0516.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Identity Crisis: how identification is overused and misunderstood</dc:title>
+    <dc:creator>Jim Harper</dc:creator>
+    <dc:subject>Privacy, Right of- United States; Identification- United States</dc:subject>
+    <dc:description>This book is a snapshot. The theory and concept of identification are only on their first baby  steps. Many of the stories are contemporary, and they will gorw stale.</dc:description>
+    <dc:publisher>Cato Institute</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2006</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Cato Institute, 2006</dc:source>
+    <dc:identifier>ISBN 1-930865-85-6</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2006 by Cato Institute. All rights reserved.</dc:rights>
+  </record>
+
+<record id="0517.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Privacy in context: technology, policy, and the integrity of social life</dc:title>
+    <dc:creator>Helen Nissenbaum</dc:creator>
+    <dc:subject>Privacy, Right of- United States; Information Technology- Social Aspects- United States; Information Policy- United States; Social Norms</dc:subject>
+    <dc:description>This book claims that what people really care about when they complain and protest that privacy has been violated is not the act of sharing information itself- most people understand that this is crucial to social life- but the inappropriate, improper sharing of information.</dc:description>
+    <dc:publisher>Stanford Law Books</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2010</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Stanford Law Books, 2010</dc:source>
+    <dc:identifier>ISBN-13: 978-0-8047-5237-4</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2010 by the Board of Trustees of the Leland Stanford JUnior University. All rights reserved.</dc:rights>
+  </record>
+
+<record id="0518.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The End of Privacy</dc:title>
+    <dc:creator>Charles J. Sykes</dc:creator>
+    <dc:subject>Privacy, Right of- United States</dc:subject>
+    <dc:description>This book explores how personal privacy is increasingly threatened at home, at work, online, and in the legal system. It discusses the impact of technology, surveillance, and changing social practices on our personal rights and freedoms.</dc:description>
+    <dc:publisher>Stanford Law Books</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, St. Martin's Griffin, 1999</dc:source>
+    <dc:identifier>ISBN 0-312-26318-X</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1999 by Charles J. Sykes. All rights reserved.</dc:rights>
+  </record>
+
+
+<record id="0519.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Economics of Integrity: from diary farmers to Toyota, how wealth is built on trust and what that means for our future</dc:title>
+    <dc:creator>Anna Bernasek</dc:creator>
+    <dc:subject>Trust; Integrity; Economic Development</dc:subject>
+    <dc:description>This book provides a tool kit for creating more integrity anywhere in the economy. When policy makers are thinking about changing health care, reforming the tax system, or improving the financial system, they can use these tools to systematically build value.</dc:description>
+    <dc:publisher>HarperCollins Publishers</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2010</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, HarperCollins Publishers, 2010</dc:source>
+    <dc:identifier>ISBN 978-0-06-177413-3</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2010 by Anna Bernasek. All rights reserved.</dc:rights>
+  </record>
+	
 <record id="4401.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>System analysis and design (Sixth Edition)</dc:title>
     <dc:creator>Jeffrey L. Whitten, Lonnie D. Bentley, Kevin C. Dittman</dc:creator>
@@ -607,7 +770,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Sixth ed. from McGraw-Hill</dc:source>
     <dc:identifier>ISBN 0-07-247417-3</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2004. Exclusive rights by The McGraw-Hill Companies, Inc. for manufacture and export.</dc:rights>
@@ -625,7 +788,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Orginial edition from boyd and frase publishing company</dc:source>
     <dc:identifier>ISBN 0-87835-818-8</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 1992. Boyd and fraser publishing company</dc:rights>
@@ -643,7 +806,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edition from course technology</dc:source>
     <dc:identifier>ISBN 0-7600-5879-2</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2000. Course Technology</dc:rights>
@@ -661,7 +824,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edition from John Wiley and Sons, Inc.</dc:source>
     <dc:identifier>ISBN 0-471-41387-9</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2002. John Wiley and Sons, Inc. All rights reserved.</dc:rights>
@@ -679,7 +842,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edition from course technology</dc:source>
     <dc:identifier>ISBN 0-201-54443-1</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 1991. Addison-Wesley Publishing Company</dc:rights>
@@ -697,7 +860,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Fifth ed. from Pearson Education, Inc.</dc:source>
     <dc:identifier>ISBN 0-13-042365-3</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2002. Pearson Education, Inc.</dc:rights>
@@ -715,7 +878,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Third ed. from Course Technology - ITP</dc:source>
     <dc:identifier>ISBN 0-7895-4313-3</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 1991. Course Technology - ITP</dc:rights>
@@ -734,7 +897,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Orginal edition from Prentice-Hall, Inc.</dc:source>
     <dc:identifier>ISBN 0-13-018373-3</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2001. Prentice-Hall, Inc.</dc:rights>
@@ -753,7 +916,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Orginal edition from Prentice-Hall, Inc.</dc:source>
     <dc:identifier>ISBN 0-13-518200-X</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 1996. Prentice Hall Inc.</dc:rights>
@@ -772,7 +935,7 @@
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edition from Addison-Wesley Publishing Company, Inc.</dc:source>
     <dc:identifier>ISBN 0-201-50923-7</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 1992. Addison-Weslet Publishing Company, Inc.</dc:rights>
@@ -792,7 +955,7 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Orginal edition from John Wiley and Sons, Inc.</dc:source>
     <dc:identifier>ISBN 0-471-31037-9</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 1996. John Wiley and Sons, Inc.</dc:rights>
@@ -811,7 +974,7 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edition from Morgan Kaufmann Publishers, Inc.</dc:source>
     <dc:identifier>ISBN 1-55860-491-X</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 1998. Morgan Kaufmann Publishers, Inc.</dc:rights>
@@ -830,7 +993,7 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edtion from O'Reilly and Associates, Inc.</dc:source>
     <dc:identifier>ISBN 1-56592-312-X</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 1998. O'Reilly and Associates, Inc.</dc:rights>
@@ -849,7 +1012,7 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edition from Addison Wesley Longman, Inc.</dc:source>
     <dc:identifier>ISBN 0-201-35752-6</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2000. Addison Wesley Longman, Inc.</dc:rights>
@@ -868,7 +1031,7 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edition from Pearson Education, Inc.</dc:source>
     <dc:identifier>ISBN 0-13-901158-7</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2003. Pearson Education, Inc.</dc:rights>
@@ -887,7 +1050,7 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Second ed. from Pearson Education, Inc.</dc:source>
     <dc:identifier>ISBN 0-13-140563-2</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2005. Pearson Education, Inc.</dc:rights>
@@ -906,7 +1069,7 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edition from Unisys Corporation. Published by Addison-Wesley</dc:source>
     <dc:identifier>ISBN 0-201-70907-4</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2001. Unisys Corporation. Published by Addison-Wesley</dc:rights>
@@ -925,7 +1088,7 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Fourth ed. from Pearson Education Limited</dc:source>
     <dc:identifier>ISBN 0-321-26354-5</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2005. Pearson Education Limited</dc:rights>
@@ -944,7 +1107,7 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Original edition from Pearson Education, Inc.</dc:source>
     <dc:identifier>ISBN 0-13-185858-0</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 2005. Pearson Education, Inc.</dc:rights>
@@ -963,174 +1126,352 @@ approach</dc:title>
     <dc:format>Physical Book</dc:format>
 	<dc:source>Third ed. from John Wiley and Sons, Inc.</dc:source>
     <dc:identifier>ISBN 0-471-31615-6</dc:identifier>
-    <dc:language>Language: English</dc:language>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>Copyright 1999. John Wiley and Sons, Inc.</dc:rights>
   </record>
 
-<record id="0511.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Code: and other laws of cyberspace</dc:title>
-    <dc:creator>Lawrence Lessig</dc:creator>
-    <dc:subject>Code; Law; Cyberspace</dc:subject>
-    <dc:description>This book is all about codes of cyberspace and it argues that this belief is wrong. It is not in the nature of cyberspace has no "nature". It only hase code- the software and hardware that make cyberspace what it is.</dc:description>
-    <dc:publisher>Basic Books</dc:publisher>
+	<record id="2801.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Advanced Programming: Using Visual Basic .NET</dc:title>
+    <dc:creator>Julia Case Bradley, Anita C. Millspaugh</dc:creator>
+    <dc:subject>Programming Languages</dc:subject>
+    <dc:description>The text incorporates the basic concepts of programming, problem-solving, and programming logic, as well as the design techniques of an object-oriented language.</dc:description>
+    <dc:publisher>The McGraw Hill Companies, Inc.</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
-    <dc:date>1999</dc:date>
-    <dc:type>Text</dc:type>
+    <dc:date>2003</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, Basic Books, 1999</dc:source>
-    <dc:identifier>ISBN 0-465-03912-X</dc:identifier>
-    <dc:language>Language: English</dc:language>
+	<dc:source>Original print edition, The McGraw Hill Companies, Inc., 2003</dc:source>
+    <dc:identifier>ISBN 0-07-115143-5</dc:identifier>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 1999 by Lawrence Lessig</dc:rights>
+    <dc:rights>© 1993 by The McGraw Hill Companies, Inc. All rights reserved.</dc:rights>
   </record>
 
-<record id="0512.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Data Smog: surviving the information glut </dc:title>
-    <dc:creator>David Shenk</dc:creator>
-    <dc:subject>Information Society; Information Society- United States; Information Technology- Social Aspects- United States</dc:subject>
-    <dc:description>This book aims to be a reminder of the critical distinction between information and understanding, and it demonstrates why you don't have to feel personally overloaded with information to be a victim of the information glut.</dc:description>
-    <dc:publisher>HarperEdge</dc:publisher>
+<record id="2802.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Introducing Microsoft SQL Server 2005 for Developers</dc:title>
+    <dc:creator>Peter DeBetta</dc:creator>
+    <dc:subject>Computer Program Language</dc:subject>
+    <dc:description>This book's objective is to help people begin to grasp what kind of development can be done with SQL Server 2005.</dc:description>
+    <dc:publisher>Microsoft Press</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
-    <dc:date>1997</dc:date>
-    <dc:type>Text</dc:type>
+    <dc:date>2005</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, HarperEdge, 1997</dc:source>
-    <dc:identifier>ISBN 0-06-018701-8</dc:identifier>
-    <dc:language>Language: English</dc:language>
+	<dc:source>Original print edition, Microsoft Press, 2005</dc:source>
+    <dc:identifier>ISBN 0-7356-1962-X</dc:identifier>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 1997 by David Shenk. All rights reserved.</dc:rights>
+    <dc:rights>© 1993 by Microsoft Corporation. All rights reserved.</dc:rights>
   </record>
 
-<record id="0513.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Silicon snake oil: second thought on the information highway</dc:title>
-    <dc:creator>Clifford Stoll</dc:creator>
-    <dc:subject>Computers and civilization; Internet: Information Technolgoy</dc:subject>
-    <dc:description>No phemenon in modern times has recieved more attention, held out more promise, nor achieved more mythic stature than the information highway. this computer utopia is said to educate, entertain, and inform.</dc:description>
-    <dc:publisher>Doubleday</dc:publisher>
+<record id="2803.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Applied Microsoft SQL Server 2008 Reporting Services: A Guide to the Leading Reporting Platform</dc:title>
+    <dc:creator>Teo Lachev</dc:creator>
+    <dc:subject>Computer Program Language</dc:subject>
+    <dc:description>This book is a s a comprehensive, hands-on resource designed to help developers, administrators, and business users build and manage enterprise business intelligence solutions.</dc:description>
+    <dc:publisher>Prologika Press</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
-    <dc:date>1995</dc:date>
-    <dc:type>Text</dc:type>
+    <dc:date>2008</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, Doubleday, 1995</dc:source>
-    <dc:identifier>ISBN 0-385-41993-7</dc:identifier>
-    <dc:language>Language: English</dc:language>
+	<dc:source>Original print edition, Prologika Press, 2008</dc:source>
+    <dc:identifier>ISBN 978-0-9766353-1-4</dc:identifier>
+    <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 1995 by Clifford Stoll. All rights reserved.</dc:rights>
+    <dc:rights>© 2008 by Teo Lachev. All rights reserved.</dc:rights>
   </record>
 
-<record id="0514.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Making a world of difference: IT in a global context</dc:title>
-    <dc:creator>Geoff Walsham</dc:creator>
-    <dc:subject>Information Technology</dc:subject>
-    <dc:description>This book presupposes a reasonable level of prior knowledge on organizations and IT, and is thus aimed primarily at postgraduate students, research communites concerned with IT in organizations and societies, and practitioners involved in the development and management of information and communication technologies.</dc:description>
-    <dc:publisher>John Wiley and Sons, LTD</dc:publisher>
+<record id="2804.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Advanced Assembly Language</dc:title>
+    <dc:creator>Steven Holzner, Peter Norton Computing, Inc.</dc:creator>
+    <dc:subject>Programming Languages</dc:subject>
+    <dc:description>This book brings the heart of assembly language, offering clear, practical discussions and working examples-programs that you can use right away. You will learn to write more compact, expert-level programs that run with searing speed and new-found precision.</dc:description>
+    <dc:publisher>Peter Norton</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
-    <dc:date>2001</dc:date>
-    <dc:type>Text</dc:type>
+    <dc:date>1991</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, John Wiley and Sons, Ltd, 2001</dc:source>
-    <dc:identifier>ISBN  0-471-87724-7</dc:identifier>
-    <dc:language>Language: English</dc:language>
-	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:source>Original Print Edition, Peter Norton, 1991</dc:source>
+    <dc:identifier>ISBN 971-656-028-1</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 2001 by John Wiley and Sons LTD</dc:rights>
+    <dc:rights>© 1991 by Peter Norton. All rights reserved.</dc:rights>
   </record>
 
-<record id="0515.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Women's Studies Reader</dc:title>
-    <dc:creator>N/A</dc:creator>
-    <dc:subject>Women; Women Issues</dc:subject>
-    <dc:description>This book is all about women such as issues, religion, politics, media, history, health, violence against women, development and environment.</dc:description>
-    <dc:publisher>Institute of Women's Studies</dc:publisher>
+<record id="2805.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Operating Systems: Concurrent and Distributed Software Design</dc:title>
+    <dc:creator>Jean Bacon, Tim Harris</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>Operating Systems is an ideal text for undergraduates on modern operating systems courses. Programmers, software engineers and systems designers will also gain new insights into the integrated nature of today's system software.</dc:description>
+    <dc:publisher>Pearson Education Limited</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
-    <dc:date>2004</dc:date>
-    <dc:type>Text and Tables</dc:type>
+    <dc:date>2003</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, Institute of Women's Studies, 2004</dc:source>
-    <dc:identifier>ISBN 971-8605-32-0</dc:identifier>
-    <dc:language>Language: English</dc:language>
-	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:source>Original Print Edition, Pearson Education Limited, 2003</dc:source>
+    <dc:identifier>ISBN 0-321-11789-1</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 2004 by the Institute of Women's Studies St. Scholastica's College</dc:rights>
+    <dc:rights>© 2003 by Pearson Education Limited. All rights reserved.</dc:rights>
   </record>
 
-<record id="0516.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Identity Crisis: how identification is overused and misunderstood</dc:title>
-    <dc:creator>Jim Harper</dc:creator>
-    <dc:subject>Privacy, Right of- United States; Identification- United States</dc:subject>
-    <dc:description>This book is a snapshot. The theory and concept of identification are only on their first baby  steps. Many of the stories are contemporary, and they will gorw stale.</dc:description>
-    <dc:publisher>Cato Institute</dc:publisher>
+<record id="2806.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Understanding Operating Systems (Fourth Edition)</dc:title>
+    <dc:creator>Ida Flynn, Ann McIver McHoes</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>The fourth edition of this bestselling text blends operating systems theory and practice in an appealing, well-organized way. Students will appreciate the many examples and illustrations found within the two-color interior, as well as the overall readability of the text.</dc:description>
+    <dc:publisher>Course Technology</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
     <dc:date>2006</dc:date>
-    <dc:type>Text</dc:type>
+    <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, Cato Institute, 2006</dc:source>
-    <dc:identifier>ISBN 1-930865-85-6</dc:identifier>
-    <dc:language>Language: English</dc:language>
-	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:source>Fourth Edition, Course Technology, 2006</dc:source>
+    <dc:identifier>ISBN 0-534-42366-3</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 2006 by Cato Institute. All rights reserved.</dc:rights>
+    <dc:rights>© 2006 by Course Technology. All rights reserved.</dc:rights>
   </record>
 
-<record id="0517.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Privacy in context: technology, policy, and the integrity of social life</dc:title>
-    <dc:creator>Helen Nissenbaum</dc:creator>
-    <dc:subject>Privacy, Right of- United States; Information Technology- Social Aspects- United States; Information Policy- United States; Social Norms</dc:subject>
-    <dc:description>This book claims that what people really care about when they complain and protest that privacy has been violated is not the act of sharing information itself- most people understand that this is crucial to social life- but the inappropriate, improper sharing of information.</dc:description>
-    <dc:publisher>Stanford Law Books</dc:publisher>
+<record id="2807.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Microsoft Visual C++ MFC Library Reference: Part 1 Volume 1</dc:title>
+    <dc:creator>Microsoft Corporation</dc:creator>
+    <dc:subject>C++</dc:subject>
+    <dc:description>The four-volume collection is the complete printed product documentation for Microsoft Visual C++, the development system for Win32. In book form, this information is portable and easy to access and browse, a comprehensive alternative to the substantial online help system in Visual C++.</dc:description>
+    <dc:publisher>Microsoft Press</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
-    <dc:date>2010</dc:date>
-    <dc:type>Text</dc:type>
+    <dc:date>1997</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, Stanford Law Books, 2010</dc:source>
-    <dc:identifier>ISBN-13: 978-0-8047-5237-4</dc:identifier>
-    <dc:language>Language: English</dc:language>
-	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:source>Volume One, Microsoft Press, 1997</dc:source>
+    <dc:identifier>ISBN 0-534-42366-3</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 2010 by the Board of Trustees of the Leland Stanford JUnior University. All rights reserved.</dc:rights>
+    <dc:rights>© 1997 by Microsoft Press. All rights reserved.</dc:rights>
   </record>
 
-<record id="0518.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>The End of Privacy</dc:title>
-    <dc:creator>Charles J. Sykes</dc:creator>
-    <dc:subject>Privacy, Right of- United States</dc:subject>
-    <dc:description>This book explores how personal privacy is increasingly threatened at home, at work, online, and in the legal system. It discusses the impact of technology, surveillance, and changing social practices on our personal rights and freedoms.</dc:description>
-    <dc:publisher>Stanford Law Books</dc:publisher>
+<record id="2808.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Operating Systems (Third Edition)</dc:title>
+    <dc:creator>Gary Nutt</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>The goal of this book is to provide a complete discussion of OS principles, supplemented with code, algorithms, implementation issues, and Lab Exercises to provide you with an understanding of contemporary OS practice, particularly in UNIX and Windows operating systems.</dc:description>
+    <dc:publisher>Pearson Education, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2004</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Third edition, Pearson Education, Inc., 2004</dc:source>
+    <dc:identifier>ISBN 0-321-18955-8</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2004 by Pearson Education, Inc. All rights reserved.</dc:rights>
+  </record>
+
+<record id="2809.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Applied Operating System Concepts (First Edition)</dc:title>
+    <dc:creator>Abraham Silberschatz, Peter Galvin, Greg Gagne</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>Applied Operating System Concepts is the first book to provide a precise introduction to the principles of operating systems with numerous contemporary code examples, exercises, and programming projects.</dc:description>
+    <dc:publisher>John Wiley & Sons, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2000</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>First edition, John Wiley & Sons, Inc., 2000</dc:source>
+    <dc:identifier>ISBN 0-471-36508-4</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2000 by John Wiley & Sons, Inc. All rights reserved.</dc:rights>
+  </record>
+
+<record id="2810.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Operating Systems: Design and Implementation (Third Edition)</dc:title>
+    <dc:creator>Andrew S. Tanenbaum, Albert S. Woodhull</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>The world's best-selling introductory operating systems text has been thoroughly updated to reflect the latest advances in OS design and implementation. Offering an optimal balance of theory and practice, this book remains the best resource for anyone seeking a deep understanding of how operating systems work.</dc:description>
+    <dc:publisher>Pearson Education, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2006</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Third edition, Pearson Education, Inc., 2006</dc:source>
+    <dc:identifier>ISBN 0-13-142938-8</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2006 by Pearson Education, Inc. All rights reserved.</dc:rights>
+  </record>
+
+<record id="2811.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Operating System Concepts (Fifth Edition)</dc:title>
+    <dc:creator>Silberschatz Galvin</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>This book provides a solid theoretical foundation for understanding operating systems.</dc:description>
+    <dc:publisher>Addison Wesley Longman, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1998</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Fifth edition, Addison Wesley Longman, Inc., 1998</dc:source>
+    <dc:identifier>ISBN 0-201-45594-3</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1998 by  Addison Wesley Longman, Inc. All rights reserved.</dc:rights>
+  </record>
+
+<record id="2812.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Operating Systems (Second Edition)</dc:title>
+    <dc:creator>Andrew S. Tanenbaum</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>This book is intended for a first course on operating systems, and as such focuses mostly on traditional single-processor systems.</dc:description>
+    <dc:publisher>Prentice-Hall, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Second Edition, Prentice-Hall, Inc., 2001</dc:source>
+    <dc:identifier>ISBN 0-13-031358-0</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2001 by Prentice-Hall, Inc. All rights reserved.</dc:rights>
+  </record>
+
+<record id="2813.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Mac Xcode 2 Book</dc:title>
+    <dc:creator>Michael E. Cohen, Dennis R. Cohen, Andy Ihnatko</dc:creator>
+    <dc:subject>Macintosh</dc:subject>
+    <dc:description>This book is a complete crash course in Xcode.</dc:description>
+    <dc:publisher>Wiley Publishing, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2005</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Wiley Publishing, Inc. 2005</dc:source>
+    <dc:identifier>ISBN 0-7645-8411-1</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2005 by Wiley Publishing, Inc. All rights reserved.</dc:rights>
+  </record>
+
+<record id="2814.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>How to use Microsoft Windows XP, Bestseller Edition</dc:title>
+    <dc:creator>Walter Glenn</dc:creator>
+    <dc:subject>Programming Languages</dc:subject>
+    <dc:description>This presents you with a straightforward, visual approach to learning. The two-page lessons and full-color graphics show you how to perform the most common tasks to help you get the most out of Windows XP.</dc:description>
+    <dc:publisher>Que Publishing</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2003</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Que Publishing. 2003</dc:source>
+    <dc:identifier>ISBN 0-7897-2855-9</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2003 by Que Publishing. All rights reserved.</dc:rights>
+  </record>
+
+<record id="2815.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>More Windows 98 Secrets</dc:title>
+    <dc:creator>Brian Livingston, Davis Straub/dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>Uncover MORE Secrets-including what's new in Windows 98 Second Edition</dc:description>
+    <dc:publisher>IDG Books Worldwide, Inc.</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
     <dc:date>1999</dc:date>
-    <dc:type>Text</dc:type>
+    <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, St. Martin's Griffin, 1999</dc:source>
-    <dc:identifier>ISBN 0-312-26318-X</dc:identifier>
-    <dc:language>Language: English</dc:language>
-	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:source>Original Print Edition, IDG Books Worldwide, Inc. 1999</dc:source>
+    <dc:identifier>ISBN 0-7645-3360-6</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 1999 by Charles J. Sykes. All rights reserved.</dc:rights>
+    <dc:rights>© 1999 by Brian Livington and Davis Straub. All rights reserved.</dc:rights>
   </record>
 
-
-<record id="0519.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>The Economics of Integrity: from diary farmers to Toyota, how wealth is built on trust and what that means for our future</dc:title>
-    <dc:creator>Anna Bernasek</dc:creator>
-    <dc:subject>Trust; Integrity; Economic Development</dc:subject>
-    <dc:description>This book provides a tool kit for creating more integrity anywhere in the economy. When policy makers are thinking about changing health care, reforming the tax system, or improving the financial system, they can use these tools to systematically build value.</dc:description>
-    <dc:publisher>HarperCollins Publishers</dc:publisher>
+<record id="2816.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Concurrent Systems Operating Systems, Database and Distributed Systems: An integrated Approach (Second Edition)</dc:title>
+    <dc:creator>Jean Bacon</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>This book is a modern approach to software systems, ideally suited to the needs of today's students and programmers. It focuses on those concepts in concurrency that play a vital role in the design of operating systems, database systems, distributed systems and communication networks.</dc:description>
+    <dc:publisher>Pearson Education Limited</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
-    <dc:date>2010</dc:date>
-    <dc:type>Text</dc:type>
+    <dc:date>1998</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, HarperCollins Publishers, 2010</dc:source>
-    <dc:identifier>ISBN 978-0-06-177413-3</dc:identifier>
-    <dc:language>Language: English</dc:language>
-	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:source>Second Edition, Pearson Education Limited. 1998</dc:source>
+    <dc:identifier>ISBN 0-201-17767-6</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 2010 by Anna Bernasek. All rights reserved.</dc:rights>
+    <dc:rights>© 1998 by Jean Bacon. All rights reserved.</dc:rights>
   </record>
 
+<record id="2817.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Requirements Analysis and System Design (Third Edition)</dc:title>
+    <dc:creator>Leszek A. Maciaszek</dc:creator>
+    <dc:subject>System Design</dc:subject>
+    <dc:description>This book describes the methods and techniques used in the analysis and design phases.</dc:description>
+    <dc:publisher>Pearson Education Limited</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2007</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Third Edition, Pearson Education Limited. 2007</dc:source>
+    <dc:identifier>ISBN 978-0-321-44036-5</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2007 by Leszek A. Maciaszek. All rights reserved.</dc:rights>
+  </record>
+
+<record id="2818.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The XP Stable: An Introduction to Microsoft Office XP</dc:title>
+    <dc:creator>Paul Hawking, Brendan McCarthy, Con Nikakis</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>This book is suitable for anyone wanting to learn about computer applications for the first time.</dc:description>
+    <dc:publisher>Pearson Education Australia</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2003</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Pearson Education Australia. 2003</dc:source>
+    <dc:identifier>ISBN 1-74009-975-3</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2003 by Pearson Education Australia. All rights reserved.</dc:rights>
+  </record>
+
+<record id="2819.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Complete IDIOT'S Guide to Microsoft Office 2000</dc:title>
+    <dc:creator>Joe Kraynak</dc:creator>
+    <dc:subject>Operating Systems</dc:subject>
+    <dc:description>This text explains the new versions of the Microsoft Office programs: Word, Excel, Powerpoint, Access, Outlook, and Publisher-including all the spiffy things you can do with them.</dc:description>
+    <dc:publisher>Que Corporation</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Que Corporation. 1999</dc:source>
+    <dc:identifier>ISBN 1-74009-975-3</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1999 by Que Corporation. All rights reserved.</dc:rights>
+  </record>
 
 </catalog>
