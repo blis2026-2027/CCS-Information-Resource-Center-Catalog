@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog name="Silliman University College of Computer Studies Information Resource Center Catalog">
 
-  <record id="0130339695.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <record id="01.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Modern Database Management (Sixth Edition)</dc:title>
     <dc:creator>Jeffrey A. Hoffer, Mary B. Prescott, Fred R. McFadden</dc:creator>
     <dc:subject>Database Management</dc:subject>
@@ -19,8 +19,8 @@
     <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
   </record>
 
-<record id="0130339696.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Database Systems: design, implementation, and management</dc:title>
+<record id="02.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Systems: design, implementation, and management (Third edition)</dc:title>
     <dc:creator>Peter Rob, Carlos Coronel</dc:creator>
     <dc:subject>Database design; Database management</dc:subject>
     <dc:description>Information is derived from data, which are usually stored in a database.</dc:description>
