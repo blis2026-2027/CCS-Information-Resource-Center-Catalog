@@ -1510,6 +1510,382 @@ approach</dc:title>
     <dc:rights>© D R Howe 2001</dc:rights>
 </record>
 
+<record id="2822.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Database Management (Fifth Edition)</dc:title>
+    <dc:creator>Fred R. McFadden, Jeffrey A. Hoffer, Mary B. Prescott</dc:creator>
+    <dc:subject>Database Management</dc:subject>
+    <dc:description>An introduction to database management and textbook for IS majors to learn databases. Contains an expasion of topics on client/server and data administration.</dc:description>
+    <dc:publisher>Addison-Wesley Educational Publishers, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Fifth Edition, Addison-Wesley Educational Publishers, Inc. 1999</dc:source>
+    <dc:identifier>ISBN 0-8053-6054-9</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1999 by Addison-Wesley Educational Publishers, Inc.</dc:rights>
+</record>
 
+<record id="2823.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Database Management (Seventh Edition, International Edition)</dc:title>
+    <dc:creator>Jeffrey A. Hoffer, Mary B. Prescott, Fred R. McFadden</dc:creator>
+    <dc:subject>Database Management</dc:subject>
+    <dc:description>The seventh edition of Modern Database Management updates and expands materials in areas undergoing rapid change due to improved managerial practices, database design tools and methodologies, and database technology.</dc:description>
+    <dc:publisher>Pearson Prentice Hall</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2005</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Seventh Edition, International Edition, Pearson Prentice Hall. 2005</dc:source>
+    <dc:identifier>ISBN 0-13-127388-4</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2005, 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey 07458.</dc:rights>
+</record>
+
+<record id="2824.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>MCTS Self-Paced Training Kit (Exam 70-516): Accessing Data with Microsoft .NET Framework 4</dc:title>
+    <dc:creator>Glenn Johnson</dc:creator>
+    <dc:subject>Microsoft Certified Technology Specialist (MCTS) Certification</dc:subject>
+    <dc:description>This training kit is designed for developers for developers who write or support applications that access data written in C# or Visual Basic using Visual Studio 2010 and the Microsoft .NET Framework 4.0 and who also plan to take the Microsoft Certified Technology Specialist (MCTS) exam 70-516.</dc:description>
+    <dc:publisher>Microsoft Press</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2011</dc:date>
+    <dc:type>Study Guide</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Microsoft Press. 2011</dc:source>
+    <dc:identifier>ISBN 978-0-7356-2739-0</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2011 by Glenn Johnson</dc:rights>
+</record>
+
+<record id="2825.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Data Warehouse ETL Toolkit: Practical Techniques for Extracting, Cleaning, Conforming, and Delivering Data</dc:title>
+    <dc:creator>Ralph Kimball, Joe Caserta</dc:creator>
+    <dc:subject>Data Warehousing Technologies</dc:subject>
+    <dc:description>The single most authoritative guide on the most difficult phase of building a data warehouse. It shows you how a properly designed ETL system extracts the data from the source systems, enforces data quality and consistency standards, conforms the data so that separate sources can be used together.</dc:description>
+    <dc:publisher>Wiley Publishing, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2004</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Wiley Publishing, Inc. 2004</dc:source>
+    <dc:identifier>ISBN 0-7645-6757-8</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2004 by Wiley Publishing, Inc.</dc:rights>
+</record>
+
+<record id="2826.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Databases and Transaction Processing: An Application-Oriented Approach</dc:title>
+    <dc:creator>Philip M. Lewis, Arthur Bernstein, Michael Kifer</dc:creator>
+    <dc:subject>Database Processing</dc:subject>
+    <dc:description>This book provides a complete and clear explanation of the conceptual and engineering principles underlying the design and implementation of database and transaction processing applications.</dc:description>
+    <dc:publisher>Addison-Wesley</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Addison-Wesley. 2002</dc:source>
+    <dc:identifier>ISBN 0-201-70872-8</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2002 by Addison-Wesley</dc:rights>
+</record>
+
+<record id="2827.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Database Management (Fourth Edition)</dc:title>
+    <dc:creator>Fred R. McFadden, Jeffrey A. Hoffer</dc:creator>
+    <dc:subject>Database Management</dc:subject>
+    <dc:description>This book is about the data resource of organizations and about the management of that resource. In todau's highly competitive global economy, managers are increasingly aware that their data resources are essential to the survival of their organizations.</dc:description>
+    <dc:publisher>The Benjamin/Cummings Publishing Company, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1994</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Fourth Edition, The Benjamin/Cummings Publishing Company, Inc. 1994</dc:source>
+    <dc:identifier>ISBN 0-8053-6047-6</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1994 by The Benjamin/Cummings Publishing Company, Inc.</dc:rights>
+</record>
+
+<record id="2828.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database: Design, Application Development, &amp; Administration</dc:title>
+    <dc:creator>Michael V. Mannino</dc:creator>
+    <dc:subject>Database Design, Application Software-Development, Database Management</dc:subject>
+    <dc:description>A book that goes even further in the second edition of Database Design, Application Development, and Administration to allow students to better understand database management through hands-on experience.</dc:description>
+    <dc:publisher>The McGraw-Hill Companies, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2004</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>The McGraw-Hill Companies, Inc. 2004</dc:source>
+    <dc:identifier>ISBN 0-07-282350-X</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2004 by The McGraw-Hill Companies, Inc.</dc:rights>
+</record>
+
+<record id="2829.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Programming in Visual C# 2008</dc:title>
+    <dc:creator>Julia Case Bradley, Anita C. Millspaugh</dc:creator>
+    <dc:subject>C# (Computer program language), Microsoft Visual C#, Visual programming languages (computer science)</dc:subject>
+    <dc:description>A book intended for use in an introductory programming course, which assumes no prior knowledge of computer programming. It incorporates the basic concepts of programming, problem solving, and programming logic, as well as the design techniques of an object oriented event-driven language.</dc:description>
+    <dc:publisher>The McGraw-Hill Companies, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2010</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>The McGraw-Hill Companies, Inc. 2010</dc:source>
+    <dc:identifier>ISBN 978-0-07-351721-6</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2010 by The McGraw-Hill Companies, Inc.</dc:rights>
+</record>
+
+<record id="2830.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>CorelDRAW 8 Bible</dc:title>
+    <dc:creator>Deborah Miller</dc:creator>
+    <dc:subject>CorelDRAW! (Computer program), Computer graphics</dc:subject>
+    <dc:description>A book that intends to guide readers to learn CorelDRAW's new and enhanched features to produce eye-catching illustrations and layouts; useful for producing Web pages, interactive presentations, or business documents with an extra flair.</dc:description>
+    <dc:publisher>IDG Books Worldwide, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1998</dc:date>
+    <dc:type>Manual</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>IDG Books Worldwide, Inc. 1998</dc:source>
+    <dc:identifier>ISBN 0-7645-3183-2</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1998 IDG Books Worldwide, Inc.</dc:rights>
+</record>
+
+<record id="2831.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Adobe Photoshop 7.0</dc:title>
+    <dc:creator>Adobe Systems Incorporated</dc:creator>
+    <dc:subject>Adobe Photoshop (Computer program)</dc:subject>
+    <dc:description>A user guide for Adobe Photoshop 7.0, the professional image-editing standard.</dc:description>
+    <dc:publisher>Adobe Systems Incorporated</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Manual</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Adobe Systems Incorporated. 2002</dc:source>
+    <dc:identifier>No standard ISBN</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2002 Adobe Systems Incorporated</dc:rights>
+</record>
+
+<record id="2832.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Prentice Hall's Test Preparation Guide for PowerPoint 2000</dc:title>
+    <dc:creator>Colene L. Coldwell</dc:creator>
+    <dc:subject>Electronic data processing personnel--Certification, Microsoft software--Examinations--Study guides, Microsoft PowerPoint (Computer file)</dc:subject>
+    <dc:description>Contains streamlined text and CD packages based on the MOUS (Microsoft Office User Specialist) exams. These packages coach students through completion of the MOUS certification exams at both the Core and Expert levels.</dc:description>
+    <dc:publisher>Prentice Hall</dc:publisher>
+    <dc:contributor>Emily Ketcham (Series Editor)</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Workbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Prentice Hall. 2001</dc:source>
+    <dc:identifier>ISBN 0-13-027742-8</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Prentice Hall's MOUS Test Preparation Guide Series</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2001 by Prentice Hall</dc:rights>
+</record>
+
+<record id="2833.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Microsoft PowerPoint Intermediate (2/3)</dc:title>
+    <dc:creator>Resource Books Ltd</dc:creator>
+    <dc:subject>Microsoft PowerPoint (Computer file)</dc:subject>
+    <dc:description>Part of PC Simplicity!, a series of computer training courses that are being used by computer users of all ages and skill levels in government departments, corporations, small businesses, schools, training institutions and the home.</dc:description>
+    <dc:publisher>Resource Books Ltd</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Manual</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Resource Books Ltd. 2002</dc:source>
+    <dc:identifier>ISBN 0908618-82-4</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>PC Simplicity! Series</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© PC Simplicity Ltd. Australia 2002</dc:rights>
+</record>
+
+<record id="2834.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Harvard Graphics 3 Quick Reference</dc:title>
+    <dc:creator>Trudi Reisner</dc:creator>
+    <dc:subject>Harvard Graphics 3 (Computer program)</dc:subject>
+    <dc:description>A compact guide that serves as an instant reference for the most often used commands, options, and latest enhancements of this best-selling presentation graphics software, Harvard Graphics 3.</dc:description>
+    <dc:publisher>Que Corporation</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1992</dc:date>
+    <dc:type>Manual</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Que Corporation. 1992</dc:source>
+    <dc:identifier>ISBN 0-88022-887-3</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Que Quick Reference Series</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1992 by Que Corporation</dc:rights>
+</record>
+
+<record id="2835.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Illustrator Type Magic</dc:title>
+    <dc:creator>Greg Simsic</dc:creator>
+    <dc:subject>Adobe Illustrator (Computer program)</dc:subject>
+    <dc:description>A book that serves to guide users in learning how to make use of Adoble Illustrator's type capabilities.</dc:description>
+    <dc:publisher>Hayden Books</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1997</dc:date>
+    <dc:type>Manual</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Hayden Books. 1997</dc:source>
+    <dc:identifier>ISBN 1-56830-334-3</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1997 Hayden Books</dc:rights>
+</record>
+
+<record id="2836.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Macromedia Flash MX Express</dc:title>
+    <dc:creator>Leon Cych, Benjamin J. Mace, Glen Rhodes</dc:creator>
+    <dc:subject>Macromedia Flash MX (Computer program), Web design</dc:subject>
+    <dc:description>A book that short-cuts the reader to the core knowledge and techniques needed to start building great Flash MX movies. This book is a fast-paced, focused introduction to the tools and components that need mastering as Flash skills are developed.</dc:description>
+    <dc:publisher>friends of ED</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Manual</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>friends of ED. 2002</dc:source>
+    <dc:identifier>ISBN 1-903450-95-0</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2002 friends of ED</dc:rights>
+</record>
+
+<record id="2837.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Special Edition: Using Macromedia Flash MX</dc:title>
+    <dc:creator>Michael Hurwicz, Laura McCabe, et al.</dc:creator>
+    <dc:subject>Macromedia Flash MX (Computer program), Web design</dc:subject>
+    <dc:description>A reference material that will help you move toward Flash proficiency and use of more advanced features.</dc:description>
+    <dc:publisher>Que Corporation</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2003</dc:date>
+    <dc:type>Manual</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Que Corporation. 2003</dc:source>
+    <dc:identifier>ISBN 0-7897-2762-5</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2003 by Que Corporation</dc:rights>
+</record>
+
+<record id="2838.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Flash 5 Virtual Classroom</dc:title>
+    <dc:creator>Doug Sahlin</dc:creator>
+    <dc:subject>Macromedia Flash MX (Computer program), Web design</dc:subject>
+    <dc:description>A revolutionary new way to learn Flash, the Web's most popular animation program. The book's casual, non-technical writing style and easy-to-follow, step-by-step approach combine to teach you all the Flash essentials.</dc:description>
+    <dc:publisher>Osborne/McGraw-Hill</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Manual</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Osborne/McGraw-Hill. 2001</dc:source>
+    <dc:identifier>ISBN 0-07-213115-2</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2001 by The McGraw-Hill Companies</dc:rights>
+</record>
+
+<record id="2839.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Final Cut Express HD 3.5 Editing Workshop</dc:title>
+    <dc:creator>Tom Wolsky</dc:creator>
+    <dc:subject>Final Cut Express 3.5 (Computer program)</dc:subject>
+    <dc:description>A book that gives the readers a first-hand experiene with the art and technique of editing.</dc:description>
+    <dc:publisher>Focal Press/Elsevier</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2007</dc:date>
+    <dc:type>Manual</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Focal Press/Elsevier. 2007</dc:source>
+    <dc:identifier>ISBN 0-240-80945-9</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2007, Tom Wolsky</dc:rights>
+</record>
+
+<record id="2840.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Digital Multimedia</dc:title>
+    <dc:creator>Nigel Chapman, Jenny Chapman</dc:creator>
+    <dc:subject>Multimedia, Web Development</dc:subject>
+    <dc:description>Combines a wide and deep account of technology with an inside understanding of multimedia content and its practical applications.</dc:description>
+    <dc:publisher>John Wiley &amp; Sons Ltd</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2000</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>John Wiley &amp; Sons Ltd. 2000</dc:source>
+    <dc:identifier>ISBN 0-471-98386-1</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Worldwide Series in Computer Science</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2000 by John Wiley &amp; Sons Ltd</dc:rights>
+</record>
+
+<record id="2841.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Teaching and Learning with ICT in the Primary School</dc:title>
+    <dc:creator>Marilyn Leask, John Meadows (editors)</dc:creator>
+    <dc:subject>Information and Communications Technology</dc:subject>
+    <dc:description>This book covers literacy, numeracy, science, and their relationship with ICT; as well as managing curriculum projects using ICT; creating and using multimedia applications.</dc:description>
+    <dc:publisher>RoutledgeFalmer</dc:publisher>
+    <dc:contributor>Marilyn Leask, John Meadows (editors)</dc:contributor>
+    <dc:date>2000</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>RoutledgeFalmer. 2000</dc:source>
+    <dc:identifier>ISBN 0-415-21505-6</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2000 RoutledgeFalmer</dc:rights>
+</record>
+
+<record id="2842.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Dangerous Professors: Academic Freedom and the National Security Campus</dc:title>
+    <dc:creator>Malini Johar Schueller, Ashley Dawson (editors)</dc:creator>
+    <dc:subject>Academic freedom--United States, Academic Freedom--Case Studies</dc:subject>
+    <dc:description>Investigates the past and current threats to academic freedom, especially with the aftermath of 9/11.</dc:description>
+    <dc:publisher>The University of Michigan Press</dc:publisher>
+    <dc:contributor>Malini Johar Schueller, Ashley Dawson (editors)</dc:contributor>
+    <dc:date>2009</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>The University of Michigan Press. 2009</dc:source>
+    <dc:identifier>ISBN 0-472-07063-0</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© by the University of Michigan 2009</dc:rights>
+</record>
 
 </catalog>
