@@ -11,8 +11,11 @@
     <dc:date>2002</dc:date>
     <dc:type>Textbook</dc:type>
     <dc:format>Physical</dc:format>
+    <dc:source></dc:source>
     <dc:identifier>ISBN 0-13-033969-5</dc:identifier>
-    <dc:relation>Language: English</dc:relation>
+    <dc:language>Language: English</dc:language>
+	  <dc:relation></dc:relation>
+	  <dc:coverage></dc:coverage>
     <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
   </record>
 
