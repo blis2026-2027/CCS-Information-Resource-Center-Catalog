@@ -11,11 +11,11 @@
     <dc:date>2002</dc:date>
     <dc:type>Textbook</dc:type>
     <dc:format>Physical</dc:format>
-    <dc:source></dc:source>
+    <dc:source>N/A</dc:source>
     <dc:identifier>ISBN 0-13-033969-5</dc:identifier>
     <dc:language>Language: English</dc:language>
-	  <dc:relation></dc:relation>
-	  <dc:coverage></dc:coverage>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
   </record>
 
@@ -29,8 +29,11 @@
     <dc:date>1993</dc:date>
     <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
+	<dc:source>N/A</dc:source>
     <dc:identifier>ISBN 0-534-17052-8</dc:identifier>
-    <dc:relation>Language: English</dc:relation>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
   </record>
 
