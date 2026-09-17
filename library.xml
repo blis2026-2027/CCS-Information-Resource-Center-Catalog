@@ -1474,4 +1474,41 @@ approach</dc:title>
     <dc:rights>© 1999 by Que Corporation. All rights reserved.</dc:rights>
   </record>
 
+<record id="2818.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Database Management (Sixth Edition)</dc:title>
+    <dc:creator>Jeffrey A. Hoffer, Mary B. Prescott, Fred R. McFadden</dc:creator>
+    <dc:subject>Database Management</dc:subject>
+    <dc:description>A book designed for an introductory course in database management. It represents an extensive revision and updating of the fifth edition of Modern Database Management. These revisions are necessary to accommodate the technical, managerial, and methodological changes occurring at an ever-increasing pace in this field.</dc:description>
+    <dc:publisher>Prentice Hall</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Sixth Edition, Prentice Hall. 2002</dc:source>
+    <dc:identifier>ISBN 0-13-033969-5</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
+</record>
+
+<record id="2819.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Data Analysis for Database Design (Third Edition)</dc:title>
+    <dc:creator>David Howe</dc:creator>
+    <dc:subject>Database Design</dc:subject>
+    <dc:description>Analysing data for database design is a subject of great practical valye for systems analysts and database designers. This classic text has been updated to include chapters on distributed database systems, query optimisation and object-orientation. The SQL content now includes features of SQL92 and SQL99.</dc:description>
+    <dc:publisher>Butterworth-Heinemann</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Textbook</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Third Edition, Butterworth-Heinemann. 2001</dc:source>
+    <dc:identifier>ISBN 0-7506-5086-9</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© D R Howe 2001</dc:rights>
+</record>
+
+	
 </catalog>
