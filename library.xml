@@ -19,4 +19,20 @@
     <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
   </record>
 
+<record id="0130339695.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Systems: design, implementation, and management</dc:title>
+    <dc:creator>Peter Rob, Carlos Coronel</dc:creator>
+    <dc:subject>Database design; Database management</dc:subject>
+    <dc:description>Information is derived from data, which are usually stored in a database.</dc:description>
+    <dc:publisher>Wadsworth Publishing Company</dc:publisher>
+    <dc:contributor>Peter G. W. Keen</dc:contributor>
+    <dc:date>1993</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+    <dc:identifier>ISBN 0-534-17052-8</dc:identifier>
+    <dc:relation>Language: English</dc:relation>
+    <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
+  </record>
+
+
 </catalog>
