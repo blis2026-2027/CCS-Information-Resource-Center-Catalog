@@ -1281,18 +1281,18 @@ approach</dc:title>
     <dc:creator>Abraham Silberschatz, Peter Galvin, Greg Gagne</dc:creator>
     <dc:subject>Operating Systems</dc:subject>
     <dc:description>Applied Operating System Concepts is the first book to provide a precise introduction to the principles of operating systems with numerous contemporary code examples, exercises, and programming projects.</dc:description>
-    <dc:publisher>John Wiley & Sons, Inc.</dc:publisher>
+    <dc:publisher>John Wiley &amp; Sons, Inc.</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
     <dc:date>2000</dc:date>
     <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>First edition, John Wiley & Sons, Inc., 2000</dc:source>
+    <dc:source>First edition, John Wiley &amp; Sons, Inc., 2000</dc:source>
     <dc:identifier>ISBN 0-471-36508-4</dc:identifier>
     <dc:language>English</dc:language>
-	<dc:relation>N/A</dc:relation>
-	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 2000 by John Wiley & Sons, Inc. All rights reserved.</dc:rights>
-  </record>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2000 by John Wiley &amp; Sons, Inc. All rights reserved.</dc:rights>
+</record>
 
 <record id="2810.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Operating Systems: Design and Implementation (Third Edition)</dc:title>
