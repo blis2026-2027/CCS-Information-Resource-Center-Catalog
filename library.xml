@@ -969,4 +969,168 @@ approach</dc:title>
     <dc:rights>Copyright 1999. John Wiley and Sons, Inc.</dc:rights>
   </record>
 
+<record id="0511.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Code: and other laws of cyberspace</dc:title>
+    <dc:creator>Lawrence Lessig</dc:creator>
+    <dc:subject>Code; Law; Cyberspace</dc:subject>
+    <dc:description>This book is all about codes of cyberspace and it argues that this belief is wrong. It is not in the nature of cyberspace has no "nature". It only hase code- the software and hardware that make cyberspace what it is.</dc:description>
+    <dc:publisher>Basic Books</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Basic Books, 1999</dc:source>
+    <dc:identifier>ISBN 0-465-03912-X</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1999 by Lawrence Lessig</dc:rights>
+  </record>
+
+<record id="0512.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Data Smog: surviving the information glut </dc:title>
+    <dc:creator>David Shenk</dc:creator>
+    <dc:subject>Information Society; Information Society- United States; Information Technology- Social Aspects- United States</dc:subject>
+    <dc:description>This book aims to be a reminder of the critical distinction between information and understanding, and it demonstrates why you don't have to feel personally overloaded with information to be a victim of the information glut.</dc:description>
+    <dc:publisher>HarperEdge</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1997</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, HarperEdge, 1997</dc:source>
+    <dc:identifier>ISBN 0-06-018701-8</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1997 by David Shenk. All rights reserved.</dc:rights>
+  </record>
+
+<record id="0513.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Silicon snake oil: second thought on the information highway</dc:title>
+    <dc:creator>Clifford Stoll</dc:creator>
+    <dc:subject>Computers and civilization; Internet: Information Technolgoy</dc:subject>
+    <dc:description>No phemenon in modern times has recieved more attention, held out more promise, nor achieved more mythic stature than the information highway. this computer utopia is said to educate, entertain, and inform.</dc:description>
+    <dc:publisher>Doubleday</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1995</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Doubleday, 1995</dc:source>
+    <dc:identifier>ISBN 0-385-41993-7</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1995 by Clifford Stoll. All rights reserved.</dc:rights>
+  </record>
+
+<record id="0514.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Making a world of difference: IT in a global context</dc:title>
+    <dc:creator>Geoff Walsham</dc:creator>
+    <dc:subject>Information Technology</dc:subject>
+    <dc:description>This book presupposes a reasonable level of prior knowledge on organizations and IT, and is thus aimed primarily at postgraduate students, research communites concerned with IT in organizations and societies, and practitioners involved in the development and management of information and communication technologies.</dc:description>
+    <dc:publisher>John Wiley and Sons, LTD</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, John Wiley and Sons, Ltd, 2001</dc:source>
+    <dc:identifier>ISBN  0-471-87724-7</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2001 by John Wiley and Sons LTD</dc:rights>
+  </record>
+
+<record id="0515.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Women's Studies Reader</dc:title>
+    <dc:creator>N/A</dc:creator>
+    <dc:subject>Women; Women Issues</dc:subject>
+    <dc:description>This book is all about women such as issues, religion, politics, media, history, health, violence against women, development and environment.</dc:description>
+    <dc:publisher>Institute of Women's Studies</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2004</dc:date>
+    <dc:type>Text and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Institute of Women's Studies, 2004</dc:source>
+    <dc:identifier>ISBN 971-8605-32-0</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2004 by the Institute of Women's Studies St. Scholastica's College</dc:rights>
+  </record>
+
+<record id="0516.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Identity Crisis: how identification is overused and misunderstood</dc:title>
+    <dc:creator>Jim Harper</dc:creator>
+    <dc:subject>Privacy, Right of- United States; Identification- United States</dc:subject>
+    <dc:description>This book is a snapshot. The theory and concept of identification are only on their first baby  steps. Many of the stories are contemporary, and they will gorw stale.</dc:description>
+    <dc:publisher>Cato Institute</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2006</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Cato Institute, 2006</dc:source>
+    <dc:identifier>ISBN 1-930865-85-6</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2006 by Cato Institute. All rights reserved.</dc:rights>
+  </record>
+
+<record id="0517.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Privacy in context: technology, policy, and the integrity of social life</dc:title>
+    <dc:creator>Helen Nissenbaum</dc:creator>
+    <dc:subject>Privacy, Right of- United States; Information Technology- Social Aspects- United States; Information Policy- United States; Social Norms</dc:subject>
+    <dc:description>This book claims that what people really care about when they complain and protest that privacy has been violated is not the act of sharing information itself- most people understand that this is crucial to social life- but the inappropriate, improper sharing of information.</dc:description>
+    <dc:publisher>Stanford Law Books</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2010</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Stanford Law Books, 2010</dc:source>
+    <dc:identifier>ISBN-13: 978-0-8047-5237-4</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2010 by the Board of Trustees of the Leland Stanford JUnior University. All rights reserved.</dc:rights>
+  </record>
+
+<record id="0518.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The End of Privacy</dc:title>
+    <dc:creator>Charles J. Sykes</dc:creator>
+    <dc:subject>Privacy, Right of- United States</dc:subject>
+    <dc:description>This book explores how personal privacy is increasingly threatened at home, at work, online, and in the legal system. It discusses the impact of technology, surveillance, and changing social practices on our personal rights and freedoms.</dc:description>
+    <dc:publisher>Stanford Law Books</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1999</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, St. Martin's Griffin, 1999</dc:source>
+    <dc:identifier>ISBN 0-312-26318-X</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 1999 by Charles J. Sykes. All rights reserved.</dc:rights>
+  </record>
+
+
+<record id="0519.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Economics of Integrity: from diary farmers to Toyota, how wealth is built on trust and what that means for our future</dc:title>
+    <dc:creator>Anna Bernasek</dc:creator>
+    <dc:subject>Trust; Integrity; Economic Development</dc:subject>
+    <dc:description>This book provides a tool kit for creating more integrity anywhere in the economy. When policy makers are thinking about changing health care, reforming the tax system, or improving the financial system, they can use these tools to systematically build value.</dc:description>
+    <dc:publisher>HarperCollins Publishers</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2010</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, HarperCollins Publishers, 2010</dc:source>
+    <dc:identifier>ISBN 978-0-06-177413-3</dc:identifier>
+    <dc:language>Language: English</dc:language>
+	<dc:relation>Wiley Series of Information Systems</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2010 by Anna Bernasek. All rights reserved.</dc:rights>
+  </record>
+
+
 </catalog>
