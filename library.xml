@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog name="Silliman University College of Computer Studies Information Resource Center Catalog">
 
-  <record id="01.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Modern Database Management (Sixth Edition)</dc:title>
-    <dc:creator>Jeffrey A. Hoffer, Mary B. Prescott, Fred R. McFadden</dc:creator>
-    <dc:subject>Database Management</dc:subject>
-    <dc:description>A book designed for an introductory course in database management. It represents an extensive revision and updating of the fifth edition of Modern Database Management. These revisions are necessary to accommodate the technical, managerial, and methodological changes occurring at an ever-increasing pace in this field.</dc:description>
-    <dc:publisher>Prentice Hall</dc:publisher>
-    <dc:contributor>N/A</dc:contributor>
-    <dc:date>2002</dc:date>
-    <dc:type>Textbook</dc:type>
-    <dc:format>Physical</dc:format>
-    <dc:source>N/A</dc:source>
-    <dc:identifier>ISBN 0-13-033969-5</dc:identifier>
+<record id="0501.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Systems: design, implementation, and management (Second edition)</dc:title>
+    <dc:creator>Peter Rob, Carlos Coronel</dc:creator>
+    <dc:subject>Database design; Database management</dc:subject>
+    <dc:description>Information is derived from data, which are usually stored in a database.</dc:description>
+    <dc:publisher>Wadsworth Publishing Company</dc:publisher>
+    <dc:contributor>Peter G. W. Keen</dc:contributor>
+    <dc:date>1993</dc:date>
+    <dc:type>Text, Figures and Tables</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>N/A</dc:source>
+    <dc:identifier>ISBN 0-534-17052-8</dc:identifier>
     <dc:language>Language: English</dc:language>
 	<dc:relation>N/A</dc:relation>
 	<dc:coverage>N/A</dc:coverage>
-    <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
+    <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
   </record>
-
-<record id="02.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	
+<record id="0502.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Database Systems: design, implementation, and management (Third edition)</dc:title>
     <dc:creator>Peter Rob, Carlos Coronel</dc:creator>
     <dc:subject>Database design; Database management</dc:subject>
@@ -36,5 +36,6 @@
 	<dc:coverage>N/A</dc:coverage>
     <dc:rights>© 1993 by Wadsworth, Inc. All rights reserved.</dc:rights>
   </record>
+
 
 </catalog>
