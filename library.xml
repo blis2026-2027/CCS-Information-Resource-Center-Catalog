@@ -24,12 +24,12 @@
     <dc:creator>Jennifer Niederst</dc:creator>
     <dc:subject>Web personalization</dc:subject>
     <dc:description>In Learning Web Design, author Jennifer Niederst shares the knowledge she's gained from years of web design experience, both as a designer and a teacher. This book starts from the beginning-- defining the Internet, the Web, browsers, and URLs. After reading this book, you'll have a solid foundation in HTML, graphics, and design principles that you can immediately put to use in creating effective web pages.</dc:description>
-    <dc:publisher>O'Reilly & Associates, Inc.</dc:publisher>
+    <dc:publisher>O'Reilly and Associates, Inc.</dc:publisher>
     <dc:contributor>Paula Ferguson (editor)</dc:contributor>
     <dc:date>2003</dc:date>
     <dc:type>Text</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>2nd edition, O'Reilly & Associates, Inc., 2003</dc:source>
+	<dc:source>2nd edition, O'Reilly and Associates, Inc., 2003</dc:source>
     <dc:identifier>ISBN 0596004842</dc:identifier>
     <dc:language>English</dc:language>
 	<dc:relation>Learning Web Design</dc:relation>
@@ -326,7 +326,7 @@
   </record>
   
   <record id="9919.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Client/Server Programming With Access & SQL Server: The Integrated Guide for Programmers and Developers</dc:title>
+    <dc:title>Client/Server Programming With Access and SQL Server: The Integrated Guide for Programmers and Developers</dc:title>
     <dc:creator>Leo Sanin, Renzhong Chen</dc:creator>
     <dc:subject>Database management; SQL server</dc:subject>
     <dc:description>This technical guide seeks to provide answers to real-world problems and offer insight into the nuances of the SQL Server/Access programming environment. Readers also learn how to overcome technical hurdles, program in Access Basic, deal with multi-user issues and much more.</dc:description>
