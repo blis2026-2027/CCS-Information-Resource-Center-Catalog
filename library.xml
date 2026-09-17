@@ -1474,7 +1474,7 @@ approach</dc:title>
     <dc:rights>© 1999 by Que Corporation. All rights reserved.</dc:rights>
   </record>
 
-<record id="2818.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<record id="2820.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Modern Database Management (Sixth Edition)</dc:title>
     <dc:creator>Jeffrey A. Hoffer, Mary B. Prescott, Fred R. McFadden</dc:creator>
     <dc:subject>Database Management</dc:subject>
@@ -1492,7 +1492,7 @@ approach</dc:title>
     <dc:rights>© 2002 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458.</dc:rights>
 </record>
 
-<record id="2819.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<record id="2821.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Data Analysis for Database Design (Third Edition)</dc:title>
     <dc:creator>David Howe</dc:creator>
     <dc:subject>Database Design</dc:subject>
@@ -1510,5 +1510,6 @@ approach</dc:title>
     <dc:rights>© D R Howe 2001</dc:rights>
 </record>
 
-	
+
+
 </catalog>
