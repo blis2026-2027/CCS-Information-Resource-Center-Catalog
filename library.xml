@@ -1887,4 +1887,364 @@ approach</dc:title>
     <dc:coverage>N/A</dc:coverage>
     <dc:rights>© by the University of Michigan 2009</dc:rights>
 </record>
+
+	<record id="1101.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Foundation Web Design</dc:title>
+    <dc:creator>Sham Bhangal, Tomasz Jankowski</dc:creator>
+    <dc:subject>Web Design, HTML, JavaScript, CSS.</dc:subject>
+    <dc:description>A step-by-step guide to web design covering HTML, JavaScript, CSS, Photoshop, Fireworks, and Flash.</dc:description>
+    <dc:publisher>Friends of ED</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2003-03</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Original print edition</dc:source>
+    <dc:identifier>ISBN 1-904344-16-X</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Wrox Professional Guides</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>c1998</dc:rights>
+</record>
+
+<record id="1102.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Professional MTS and MSMQ with VB and ASP</dc:title>
+    <dc:creator>Alex Homer, David Sussman</dc:creator>
+    <dc:subject>Microsoft Transaction Server, Microsoft Message Queue Server, Visual Basic, Active Server Pages, Distributed Applications.</dc:subject>
+    <dc:description>A guide to developing secure and reliable distributed web applications using MTS, MSMQ, Visual Basic, and Active Server Pages.</dc:description>
+    <dc:publisher>Wrox Press Ltd.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1998</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Original print edition</dc:source>
+    <dc:identifier>ISBN 1-861001-46-0</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Wrox Professional Guides</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>c1998</dc:rights>
+</record>
+
+<record id="1103.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Administering Apache</dc:title>
+    <dc:creator>Mark Arnold, Jeff D. Almeida, Clint Miller</dc:creator>
+    <dc:subject>Apache, Web Server Administration, Firewalls; CGI, Perl, Proxy Servers, Security.</dc:subject>
+    <dc:description>A practical guide to implementing, running, securing, and administering Apache web servers.</dc:description>
+    <dc:publisher>McGraw-Hill</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2000</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Original print edition</dc:source>
+    <dc:identifier>ISBN 0-07-212291-9</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>McGraw-Hill Computing</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>c2000</dc:rights>
+</record>
+
+<record id="1104.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>NT TCP/IP</dc:title>
+    <dc:creator>Karanjit S. Siyan, Ph.D.</dc:creator>
+    <dc:subject>Windows NT,TCP/IP, Network Administration, DHCP, DNS, WINS, SNMP,NFS.</dc:subject>
+    <dc:description>A practical reference for designing, configuring, troubleshooting, and administering TCP/IP networks in Windows NT environments.</dc:description>
+    <dc:publisher>N/A</dc:publisher>
+    <dc:contributor>Al Valvano (Executive Editor), Stephanie Layton (Acquisitions Editor), Robin Drake (Development Editor),Sarah Kearns (Managing Editor), Christopher Morris (Project Editor), Daryl Kessler (Copy Editor), Craig Small (Indexer)</dc:contributor>
+    <dc:date>1998</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Original print edition</dc:source>
+    <dc:identifier>ISBN 1-56205-887-8</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Not identified</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
+    <dc:rights>c1998</dc:rights>
+</record>
+
+<record id="1105.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Effective Internet</dc:title>
+    <dc:creator>Fritz J. Erickson, John A. Vonk</dc:creator>
+    <dc:subject>Internet, Computer Networks, Internet Services, World Wide Web, Online Communication.</dc:subject>
+    <dc:description>An introductory guide to using the Internet effectively, covering Internet tools, services, communication, and online information resources.</dc:description>
+    <dc:publisher>Irwin/McGraw-Hill</dc:publisher>
+    <dc:contributor>om Casson, Garrett Glanz, Kristin Hepburn, Jane Lightell</dc:contributor>
+    <dc:date>1996</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Original print edition</dc:source>
+    <dc:identifier>ISBN 0-256-23769-7</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>The Effective Series</dc:relation>
+    <dc:coverage>Internet and computer networking</dc:coverage>
+    <dc:rights>c1996</dc:rights>
+</record>
+
+<record id="1106.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>C++ Programming: Problem Analysis to Program Design (Lab Manual)</dc:title>
+    <dc:creator>udy Scholl, Gerard Nugent</dc:creator>
+    <dc:subject>C++ Programming, Computer Programming, Program Design, Problem Analysis</dc:subject>
+    <dc:description>A lab manual for learning C++ programming through problem analysis, program design, and practical programming exercises.</dc:description>
+    <dc:publisher>Cengage Learning Asia Pte. Ltd.</dc:publisher>
+    <dc:contributor>Course Technology</dc:contributor>
+    <dc:date>2001</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Philippine Edition / First Philippine Reprint</dc:source>
+    <dc:identifier>ISBN 978-981-4336-85-7</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>C++ Programming: Problem Analysis to Program Design</dc:relation>
+    <dc:coverage>C++ programming and program design</dc:coverage>
+    <dc:rights>c2011</dc:rights>
+</record>
+
+<record id="1107.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Fix Your Own PC</dc:title>
+    <dc:creator>Corey Sandler</dc:creator>
+    <dc:subject>Personal Computers, Computer Repair, Troubleshooting, Computer Hardware, PC Maintenance.</dc:subject>
+    <dc:description>A practical guide to diagnosing, repairing, maintaining, and upgrading personal computers, including hardware, memory, drives, peripherals, BIOS, and Windows-related issues.</dc:description>
+    <dc:publisher>MIS:Press</dc:publisher>
+    <dc:contributor>Paul Farrell, Michael Sprague, Anthony Washington, Cary Sullivan,Winifred Davis</dc:contributor>
+    <dc:date>1996</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Third Edition; Philippine reprint by Global Publishing</dc:source>
+    <dc:identifier>ISBN 971-656-100-8</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Fix Your Own PC series</dc:relation>
+    <dc:coverage>Personal computer repair, maintenance, troubleshooting, and upgrades</dc:coverage>
+    <dc:rights>c1996</dc:rights>
+</record>
+
+<record id="1108.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Advanced Microsoft Office Access &amp; Excel 2003</dc:title>
+    <dc:creator>Philip A. Koneman</dc:creator>
+    <dc:subject>Microsoft Office, Microsoft excel, Microsoft Access, electronic spreadsheets, Database Management, Business Computure program.</dc:subject>
+    <dc:description>An advaced instructional book covering Microsoft access and Excel 2003, including hands-on exercises, case studies, databases managements, and spreadsheet skill.</dc:description>
+    <dc:publisher>Pearson Education,Inc./Prentice Hall</dc:publisher>
+    <dc:contributor>Jodi McPherson, Natalie A. Anderson, Elieen Clark</dc:contributor>
+    <dc:date>2006</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Exploring Office Series</dc:source>
+    <dc:identifier>ISBN 0-13-146640-2</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Exploring Series (Pearson/Prentice Hall)</dc:relation>
+    <dc:coverage>Microsoft Access 2003 and Microsoft Excel 2003</dc:coverage>
+    <dc:rights>c2006</dc:rights>
+</record>
+
+<record id="1109.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Systems Analysis and Design</dc:title>
+    <dc:creator>Jeffrey A. Hoffer, Joey F. George,Joseph S. Valacich</dc:creator>
+    <dc:subject>Systems Analysis, Systems Design, Information Systems, Systems Development.</dc:subject>
+    <dc:description>A textbook covering the concepts, methods, and techniques used in modern systems analysis and design and information systems development.</dc:description>
+    <dc:publisher>Pearson Education, Inc. / Prentice Hall</dc:publisher>
+    <dc:contributor>Sally Yagan, Eric Svendsen, Bob Horan, Steven Jackson</dc:contributor>
+    <dc:date>2011</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Modern Systems Analysis and Design, Sixth Edition, International Edition</dc:source>
+    <dc:identifier>ISBN 978-0-13-509489-1</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Sixth Edition; International Edition</dc:relation>
+    <dc:coverage>Systems analysis and design; information systems development</dc:coverage>
+    <dc:rights>c2011</dc:rights>
+</record>
+
+<record id="1110.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>ICDL4: The Complete Coursebook for Microsoft Office 2003</dc:title>
+    <dc:creator>Brendan Munnelly, Paul Holden</dc:creator>
+    <dc:subject>Computer Literacy, Information Technology, Microsoft Office 2003, ICDL, Word Processing, Spreadsheets, Databases, Presentations</dc:subject>
+    <dc:description>A comprehensive coursebook covering all seven modules of the ICDL Syllabus Version 4.0 using Microsoft Windows XP, Microsoft Office 2003, and Internet Explorer 6.</dc:description>
+    <dc:publisher>Pearson Education Limited / Prentice Hall</dc:publisher>
+    <dc:contributor>Patrick Scully (Editor), Sadhbh O’Dwyer, Judith Cuppage</dc:contributor>
+    <dc:date>2005</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>ICDL4: The Complete Coursebook for Microsoft Office 2003</dc:source>
+    <dc:identifier>ISBN 0-13-196427-5</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>ICDL Syllabus Version 4.0</dc:relation>
+    <dc:coverage>Computer fundamentals; file management; word processing; spreadsheets; databases; presentations; information and communication</dc:coverage>
+    <dc:rights>c2005</dc:rights>
+</record>
+
+<record id="1111.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Teach Yourself VISUALLY Office 2003, 2nd Edition</dc:title>
+    <dc:creator>Not stated in the provided pages</dc:creator>
+    <dc:subject>Microsoft Office 2003, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Access, Microsoft Outlook, Business Software</dc:subject>
+    <dc:description>A visual, step-by-step guide to Microsoft Office 2003 covering more than 230 tasks using full-color screenshots, practical tips, and concise instructions.</dc:description>
+    <dc:publisher>Wiley Publishing, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2006</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Teach Yourself VISUALLY Office 2003, 2nd Edition</dc:source>
+    <dc:identifier>ISBN 978-0-7645-9687-2</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Teach Yourself VISUALLY series</dc:relation>
+    <dc:coverage>Microsoft Office 2003 applications; Word; Excel; PowerPoint; Access; Outlook</dc:coverage>
+    <dc:rights>c2006</dc:rights>
+</record>
+
+<record id="1112.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Exploring Microsoft Office 2007, Volume 1, Second Edition</dc:title>
+    <dc:creator>Robert T. Grauer, Mary Anne Poatsy, Keith Mulbery, Cynthia Krebs, Maurie Lockley, Lynn Hogan, Michelle Hulett</dc:creator>
+    <dc:subject>Microsoft Office 2007, Computer applications, Word processing, Spreadsheets, Presentations, Database management</dc:subject>
+    <dc:description>An instructional textbook covering Microsoft Office 2007 applications through hands-on exercises, concepts, projects, and practical computer skills.</dc:description>
+    <dc:publisher>Pearson Prentice Hall</dc:publisher>
+    <dc:contributor>Hulett, Krebs; Lockley, Mulbery, Scheeren</dc:contributor>
+    <dc:date>2009</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Exploring Microsoft Office 2007, Volume 1</dc:source>
+    <dc:identifier>ISBN 978-0-13-157729-8</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Exploring Series</dc:relation>
+    <dc:coverage>Microsoft Office 2007 applications and computer skills</dc:coverage>
+    <dc:rights>c2009</dc:rights>
+</record>
+
+<record id="1113.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Systems: A Practical Approach to Design, Implementation, and Management, Third Edition</dc:title>
+    <dc:creator>Thomas M. Connolly, Carolyn E. Begg</dc:creator>
+    <dc:subject>Database systems, Database design, Database management, Database implementation</dc:subject>
+    <dc:description>A practical textbook covering the design, implementation, and management of database systems, including database modeling, SQL, relational databases, distributed databases, data warehousing, and database technologies.</dc:description>
+    <dc:publisher>Pearson Education Limited / Addison-Wesley</dc:publisher>
+    <dc:contributor>Anne Strachan</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Database Systems: A Practical Approach to Design, Implementation, and Management</dc:source>
+    <dc:identifier>ISBN 0-201-70857-4</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>International Computer Science Series</dc:relation>
+    <dc:coverage>Database design, implementation, management, SQL, relational database systems, and database technologies</dc:coverage>
+    <dc:rights>c2002</dc:rights>
+</record>
+
+<record id="1114.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>A First Course in Database Systems</dc:title>
+    <dc:creator>Jeffrey D. Ullman, Jennifer Widom</dc:creator>
+    <dc:subject>Database management, Database systems, Database design, SQL</dc:subject>
+    <dc:description>An introductory textbook on database systems covering database design, SQL programming, entity-relationship models, object-oriented databases, transactions, security, and database applications.</dc:description>
+    <dc:publisher>Prentice Hall</dc:publisher>
+    <dc:contributor>Marcia Horton, Bayan Mendoza de Leon, David W. Riccardi, Paula Maylahn, Irwin Zucker</dc:contributor>
+    <dc:date>1977</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>A First Course in Database Systems</dc:source>
+    <dc:identifier>ISBN 0-13-861337-0</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>An Alan R. Apt Book</dc:relation>
+    <dc:coverage>Database systems, database design, SQL, E/R modeling, object-oriented databases, transactions, and security</dc:coverage>
+    <dc:rights>c1977</dc:rights>
+</record>
+
+<record id="1115.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Database Management</dc:title>
+    <dc:creator>N/A</dc:creator>
+    <dc:subject>Database management, Database systems, SQL, Data warehousing, Internet databases</dc:subject>
+    <dc:description>A textbook covering modern database management, including database design, SQL, client/server databases, Internet databases, data warehousing, database applications, and Web security.</dc:description>
+    <dc:publisher>Prentice Hall / Pearson Education, Inc.</dc:publisher>
+    <dc:contributor>Bob Horan, David Alexander, Natalie Anderson, Lori Cerreto, Michael Reynolds</dc:contributor>
+    <dc:date>2002</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Modern Database Management, Sixth Edition</dc:source>
+    <dc:identifier>ISBN 0-13-033969-5</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Sixth Edition</dc:relation>
+    <dc:coverage>Database management, SQL, Internet databases, client/server systems, data warehousing, and database applications</dc:coverage>
+    <dc:rights>c2002</dc:rights>
+</record>
+
+<record id="1116.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Modern Database Management</dc:title>
+    <dc:creator>Jeffrey A. Hoffer, Mary B. Prescott, Fred R. McFadden</dc:creator>
+    <dc:subject>Database management</dc:subject>
+    <dc:description>A textbook covering database management, database design, SQL, data modeling, data quality, privacy, and modern database technologies.</dc:description>
+    <dc:publisher>Pearson Prentice Hall</dc:publisher>
+    <dc:contributor>Bob Horan, Jeff Shelstad, Pamela Hersberger, Ana Cordero, Peter Snell</dc:contributor>
+    <dc:date>2007</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Modern Database Management, Eighth Edition</dc:source>
+    <dc:identifier>ISBN 0-13-221211-0</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Eighth Edition</dc:relation>
+    <dc:coverage>Database management, SQL, data modeling, database design, data quality, and privacy</dc:coverage>
+    <dc:rights>c2007</dc:rights>
+</record>
+
+<record id="1117.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database System Implementation</dc:title>
+    <dc:creator>Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom</dc:creator>
+    <dc:subject>Database management</dc:subject>
+    <dc:description>A textbook on the implementation of database management systems, including storage structures, query processing, query optimization, transaction management, information integration, and data warehousing.</dc:description>
+    <dc:publisher>Prentice Hall</dc:publisher>
+    <dc:contributor>Alan Apt, Marcia Horton, Ana Arias Terry, Irwin Zucker, Eileen Clark</dc:contributor>
+    <dc:date>2000</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Database System Implementation</dc:source>
+    <dc:identifier>ISBN 0-13-040264-8</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>Related to A First Course in Database Systems</dc:relation>
+    <dc:coverage>Database systems, storage structures, query processing, transaction management, data warehousing, and DBMS implementation</dc:coverage>
+    <dc:rights>c2000</dc:rights>
+</record>
+
+<record id="1118.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>File Structures: A Conceptual Toolkit</dc:title>
+    <dc:creator>Michael J. Folk, Bill Zoellick</dc:creator>
+    <dc:subject>File organization</dc:subject>
+    <dc:description>An introduction to file structure design, including file organization, data structures, file operations, indexing, B-trees, hashing, fields and records, and information storage and retrieval.</dc:description>
+    <dc:publisher>Addison-Wesley Publishing Company</dc:publisher>
+    <dc:contributor>Mark S. Dalton, Laura Skinger, Sherry Berg, Melinda Grosser, Hugh Crawford, Marshall Henrichs</dc:contributor>
+    <dc:date>1987</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>File Structures: A Conceptual Toolkit</dc:source>
+    <dc:identifier>ISBN 0-201-12003-8</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>ACM Curriculum ’78, Course CS-5</dc:relation>
+    <dc:coverage>File structures, file organization, B-trees, hashing, indexing, records, data storage and retrieval</dc:coverage>
+    <dc:rights>c1987</dc:rights>
+</record>
+
+<record id="1119.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Database Design for Information Retrieval: A Conceptual Approach</dc:title>
+    <dc:creator>Raya Fidel</dc:creator>
+    <dc:subject>Databases, Information storage and retrieval systems</dc:subject>
+    <dc:description>A conceptual guide to database design for information retrieval, focusing on data requirements analysis, documentation, data modeling, data dictionaries, entities, relationships, attributes, and Entity-Relationship models.</dc:description>
+    <dc:publisher>John Wiley &amp; Sons, Inc.</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>1987</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Database Design for Information Retrieval: A Conceptual Approach</dc:source>
+    <dc:identifier>ISBN 0-471-82786-X</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>Database design, data requirements analysis, information retrieval, data modeling, and Entity-Relationship models</dc:coverage>
+    <dc:rights>c1987</dc:rights>
+</record>
+
+<record id="1120.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Fundamentals of Database Systems</dc:title>
+    <dc:creator>Ramez Elmasri, Shamkant B. Navathe</dc:creator>
+    <dc:subject>Database management, Database systems, Data modeling; SQL</dc:subject>
+    <dc:description>A comprehensive textbook covering the fundamental concepts of database systems, including database modeling and design, database management systems, SQL, system implementation, ER and UML models, XML, security, data mining, and Web databases.</dc:description>
+    <dc:publisher>Pearson Education, Inc. / Addison-Wesley</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2004</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical</dc:format>
+    <dc:source>Fundamentals of Database Systems, Fourth Edition</dc:source>
+    <dc:identifier>ISBN 0-321-12226-7</dc:identifier>
+    <dc:language>English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>Database systems, database design, data modeling, SQL, DBMS, ER model, UML, XML, security, and data mining</dc:coverage>
+    <dc:rights>c2004</dc:rights>
+</record>
 </catalog>
