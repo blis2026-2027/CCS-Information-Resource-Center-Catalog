@@ -488,7 +488,7 @@
   </record>
 
 <record id="0505.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Visual modeling with rational rose 2002 and UML</dc:title>
+    <dc:title>Visual Modeling with Rational Rose 2002 and UML</dc:title>
     <dc:creator>Terry Quatrani</dc:creator>
     <dc:subject>Visual programming; object- oriented methods; UML</dc:subject>
     <dc:description>Visual modeling is a way of thinking about problems using models organized around real- world ideas.</dc:description>
@@ -544,7 +544,7 @@
 <record id="0508.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Interactive Computer Graphics: a top-down approach with OpenGL </dc:title>
     <dc:creator>Edward Angel</dc:creator>
-    <dc:subject>Computer Graphics; Interactive computer systems</dc:subject>
+    <dc:subject>Computer graphics; Interactive computer systems</dc:subject>
     <dc:description>This book is an introduction to computer graphics, wiht an emphasis on applications programming.</dc:description>
     <dc:publisher>Addison-Wesley</dc:publisher>
     <dc:contributor>N/A</dc:contributor>
@@ -632,7 +632,7 @@
   </record>
 
 <record id="0513.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Silicon snake oil: second thought on the information highway</dc:title>
+    <dc:title>Silicon Snake Oil: second thought on the information highway</dc:title>
     <dc:creator>Clifford Stoll</dc:creator>
     <dc:subject>Computers and civilization; Internet: Information Technolgoy</dc:subject>
     <dc:description>No phemenon in modern times has recieved more attention, held out more promise, nor achieved more mythic stature than the information highway. this computer utopia is said to educate, entertain, and inform.</dc:description>
@@ -650,7 +650,7 @@
   </record>
 
 <record id="0514.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Making a world of difference: IT in a global context</dc:title>
+    <dc:title>Making a World of Difference: IT in a global context</dc:title>
     <dc:creator>Geoff Walsham</dc:creator>
     <dc:subject>Information Technology</dc:subject>
     <dc:description>This book presupposes a reasonable level of prior knowledge on organizations and IT, and is thus aimed primarily at postgraduate students, research communites concerned with IT in organizations and societies, and practitioners involved in the development and management of information and communication technologies.</dc:description>
@@ -704,7 +704,7 @@
   </record>
 
 <record id="0517.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Privacy in context: technology, policy, and the integrity of social life</dc:title>
+    <dc:title>Privacy in Context: technology, policy, and the integrity of social life</dc:title>
     <dc:creator>Helen Nissenbaum</dc:creator>
     <dc:subject>Privacy, Right of- United States; Information Technology- Social Aspects- United States; Information Policy- United States; Social Norms</dc:subject>
     <dc:description>This book claims that what people really care about when they complain and protest that privacy has been violated is not the act of sharing information itself- most people understand that this is crucial to social life- but the inappropriate, improper sharing of information.</dc:description>
@@ -2247,5 +2247,23 @@ approach</dc:title>
     <dc:coverage>Database systems, database design, data modeling, SQL, DBMS, ER model, UML, XML, security, and data mining</dc:coverage>
     <dc:rights>c2004</dc:rights>
 </record>
+
+<record id="0520.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Privacy and the Media</dc:title>
+    <dc:creator>Daniel J. Solove, Paul M. Schwartz</dc:creator>
+    <dc:subject>privacy, Right of-- United States; Press law-- United States Mass media-Law and Legislation-- United States; Internet- Law and Legislation-- United States</dc:subject>
+    <dc:description>This book aims to provide a comprehensive and accessible introduction to the legal, social, and political issues involving information privacy and the media.</dc:description>
+    <dc:publisher>Aspen Publishers</dc:publisher>
+    <dc:contributor>N/A</dc:contributor>
+    <dc:date>2008</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>Physical Book</dc:format>
+	<dc:source>Original Print Edition, Aspen Publishers, 2008</dc:source>
+    <dc:identifier>ISBN 978-0-7355-8257-6</dc:identifier>
+    <dc:language>English</dc:language>
+	<dc:relation>N/A</dc:relation>
+	<dc:coverage>N/A</dc:coverage>
+    <dc:rights>© 2008 Aspen Publishers. All rights reserved.</dc:rights>
+  </record>
 	
 </catalog>
