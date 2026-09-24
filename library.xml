@@ -1385,7 +1385,7 @@ approach</dc:title>
   </record>
 
 <record id="2815.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>More Windows 98 Secrets</dc:title>
+     <dc:title>More Windows 98 Secrets</dc:title>
     <dc:creator>Brian Livingston, Davis Straub</dc:creator>
     <dc:subject>Operating Systems</dc:subject>
     <dc:description>Uncover MORE Secrets-including what's new in Windows 98 Second Edition</dc:description>
@@ -1394,11 +1394,11 @@ approach</dc:title>
     <dc:date>1999</dc:date>
     <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, IDG Books Worldwide, Inc. 1999</dc:source>
+    <dc:source>Original Print Edition, IDG Books Worldwide, Inc. 1999</dc:source>
     <dc:identifier>ISBN 0-7645-3360-6</dc:identifier>
-    <dc:language>English</dc:language>
-	<dc:relation>N/A</dc:relation>
-	<dc:coverage>N/A</dc:coverage>
+    <dc:language>Language: English</dc:language>
+    <dc:relation>N/A</dc:relation>
+    <dc:coverage>N/A</dc:coverage>
     <dc:rights>© 1999 by Brian Livington and Davis Straub. All rights reserved.</dc:rights>
   </record>
 
