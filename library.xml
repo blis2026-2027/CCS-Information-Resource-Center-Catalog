@@ -425,7 +425,7 @@
     <dc:date>1993</dc:date>
     <dc:type>Text, Figures and Tables</dc:type>
     <dc:format>Physical Book</dc:format>
-	<dc:source>Original Print Edition, Wadsworth Publishing Company, 1993</dc:source>
+	<dc:source>Original print edition, Wadsworth Publishing Company, 1993</dc:source>
     <dc:identifier>ISBN 0-534-17052-8</dc:identifier>
     <dc:language>English</dc:language>
 	<dc:relation>N/A</dc:relation>
@@ -1903,7 +1903,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Wrox Professional Guides</dc:relation>
     <dc:coverage>N/A</dc:coverage>
-    <dc:rights>c1998</dc:rights>
+    <dc:rights>©1998</dc:rights>
 </record>
 
 <record id="1102.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -1921,7 +1921,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Wrox Professional Guides</dc:relation>
     <dc:coverage>N/A</dc:coverage>
-    <dc:rights>c1998</dc:rights>
+    <dc:rights>©1998</dc:rights>
 </record>
 
 <record id="1103.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -1939,7 +1939,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>McGraw-Hill Computing</dc:relation>
     <dc:coverage>N/A</dc:coverage>
-    <dc:rights>c2000</dc:rights>
+    <dc:rights>©2000</dc:rights>
 </record>
 
 <record id="1104.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -1957,7 +1957,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Not identified</dc:relation>
     <dc:coverage>N/A</dc:coverage>
-    <dc:rights>c1998</dc:rights>
+    <dc:rights>©1998</dc:rights>
 </record>
 
 <record id="1105.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -1975,7 +1975,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>The Effective Series</dc:relation>
     <dc:coverage>Internet and computer networking</dc:coverage>
-    <dc:rights>c1996</dc:rights>
+    <dc:rights>©1996</dc:rights>
 </record>
 
 <record id="1106.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -1993,7 +1993,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>C++ Programming: Problem Analysis to Program Design</dc:relation>
     <dc:coverage>C++ programming and program design</dc:coverage>
-    <dc:rights>c2011</dc:rights>
+    <dc:rights>©2011</dc:rights>
 </record>
 
 <record id="1107.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2011,7 +2011,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Fix Your Own PC series</dc:relation>
     <dc:coverage>Personal computer repair, maintenance, troubleshooting, and upgrades</dc:coverage>
-    <dc:rights>c1996</dc:rights>
+    <dc:rights>©1996</dc:rights>
 </record>
 
 <record id="1108.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2029,7 +2029,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Exploring Series (Pearson/Prentice Hall)</dc:relation>
     <dc:coverage>Microsoft Access 2003 and Microsoft Excel 2003</dc:coverage>
-    <dc:rights>c2006</dc:rights>
+    <dc:rights>©2006</dc:rights>
 </record>
 
 <record id="1109.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2047,7 +2047,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Sixth Edition; International Edition</dc:relation>
     <dc:coverage>Systems analysis and design; information systems development</dc:coverage>
-    <dc:rights>c2011</dc:rights>
+    <dc:rights>©2011</dc:rights>
 </record>
 
 <record id="1110.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2065,7 +2065,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>ICDL Syllabus Version 4.0</dc:relation>
     <dc:coverage>Computer fundamentals; file management; word processing; spreadsheets; databases; presentations; information and communication</dc:coverage>
-    <dc:rights>c2005</dc:rights>
+    <dc:rights>©2005</dc:rights>
 </record>
 
 <record id="1111.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2083,7 +2083,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Teach Yourself VISUALLY series</dc:relation>
     <dc:coverage>Microsoft Office 2003 applications; Word; Excel; PowerPoint; Access; Outlook</dc:coverage>
-    <dc:rights>c2006</dc:rights>
+    <dc:rights>©2006</dc:rights>
 </record>
 
 <record id="1112.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2101,7 +2101,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Exploring Series</dc:relation>
     <dc:coverage>Microsoft Office 2007 applications and computer skills</dc:coverage>
-    <dc:rights>c2009</dc:rights>
+    <dc:rights>©2009</dc:rights>
 </record>
 
 <record id="1113.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2119,7 +2119,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>International Computer Science Series</dc:relation>
     <dc:coverage>Database design, implementation, management, SQL, relational database systems, and database technologies</dc:coverage>
-    <dc:rights>c2002</dc:rights>
+    <dc:rights>©2002</dc:rights>
 </record>
 
 <record id="1114.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2137,7 +2137,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>An Alan R. Apt Book</dc:relation>
     <dc:coverage>Database systems, database design, SQL, E/R modeling, object-oriented databases, transactions, and security</dc:coverage>
-    <dc:rights>c1977</dc:rights>
+    <dc:rights>©1977</dc:rights>
 </record>
 
 <record id="1115.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2155,7 +2155,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Sixth Edition</dc:relation>
     <dc:coverage>Database management, SQL, Internet databases, client/server systems, data warehousing, and database applications</dc:coverage>
-    <dc:rights>c2002</dc:rights>
+    <dc:rights>©2002</dc:rights>
 </record>
 
 <record id="1116.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2173,7 +2173,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Eighth Edition</dc:relation>
     <dc:coverage>Database management, SQL, data modeling, database design, data quality, and privacy</dc:coverage>
-    <dc:rights>c2007</dc:rights>
+    <dc:rights>©2007</dc:rights>
 </record>
 
 <record id="1117.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2191,7 +2191,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>Related to A First Course in Database Systems</dc:relation>
     <dc:coverage>Database systems, storage structures, query processing, transaction management, data warehousing, and DBMS implementation</dc:coverage>
-    <dc:rights>c2000</dc:rights>
+    <dc:rights>©2000</dc:rights>
 </record>
 
 <record id="1118.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2209,7 +2209,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>ACM Curriculum ’78, Course CS-5</dc:relation>
     <dc:coverage>File structures, file organization, B-trees, hashing, indexing, records, data storage and retrieval</dc:coverage>
-    <dc:rights>c1987</dc:rights>
+    <dc:rights>©1987</dc:rights>
 </record>
 
 <record id="1119.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2227,7 +2227,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>N/A</dc:relation>
     <dc:coverage>Database design, data requirements analysis, information retrieval, data modeling, and Entity-Relationship models</dc:coverage>
-    <dc:rights>c1987</dc:rights>
+    <dc:rights>©1987</dc:rights>
 </record>
 
 <record id="1120.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -2245,7 +2245,7 @@ approach</dc:title>
     <dc:language>English</dc:language>
     <dc:relation>N/A</dc:relation>
     <dc:coverage>Database systems, database design, data modeling, SQL, DBMS, ER model, UML, XML, security, and data mining</dc:coverage>
-    <dc:rights>c2004</dc:rights>
+    <dc:rights>©2004</dc:rights>
 </record>
 
 <record id="0520.xml" xmlns:dc="http://purl.org/dc/elements/1.1/">
